@@ -312,41 +312,31 @@ export interface VideoEntry {
   chapters: Chapter[];
 }
 
-/**
- * Chapter titles double as exercise names in these videos, but they are mixed in with
- * section headers ("SHOULDER ADDUCTION: LATS AND TERES MAJOR") and mistake call-outs
- * ("USING TOO MUCH BODY ENGLISH"). Keep only titles that name a real movement.
- */
-const EXERCISE_TERM =
-  /\b(press|bench|row|curl|squat|deadlift|dl|raise|extension|fly|flye|pulldown|pull[- ]?up|pull[- ]?over|chin[- ]?up|push[- ]?up|pushdown|dip|lunge|thrust|bridge|shrug|kickback|crunch|plank|hinge|hyperextension|good morning|pull[- ]?in|leg press|calf|carry|hang|face pull|pullthrough|split squat|step[- ]?up|hip thrust|rdl|jm|skull ?crusher)\b/i;
-
-const NOT_AN_EXERCISE =
-  /^(untitled|<|intro|outro|conclusion|sponsor|recap|summary|mistake|tip|the )|\b(mistakes?|wrong|too much|not enough|do(n't| not)|why|how to|vs\.?|versus|anatomy|science|myth|takeaway|benefits?|master\w+|common|rule \d|programming|volume|frequency|exercises?|injur\w+|training|tips?|best|worst|ranked|routine|workout|warm[- ]?up|stretch\w*)\b/i;
-
-export function exercisesFor(videos: VideoEntry[], limit = 8): string[] {
-  const seen = new Set<string>();
-  const out: string[] = [];
-  for (const video of videos) {
-    for (const chapter of video.chapters) {
-      const name = chapter.title.replace(/^\d+[.)]\s*/, "").trim();
-      const key = name.toLowerCase().replace(/[^a-z0-9]/g, "");
-      if (!key || seen.has(key)) continue;
-      if (name.length > 38 || name.includes("?") || name.includes(":")) continue;
-      if (NOT_AN_EXERCISE.test(name) || !EXERCISE_TERM.test(name)) continue;
-      seen.add(key);
-      out.push(titleCase(name));
-      if (out.length >= limit) return out;
-    }
-  }
-  return out;
+export interface ExerciseEntry {
+  name: string;
+  slug: string;
+  /** Source video and the second at which this exercise is demonstrated. */
+  videoId: string;
+  channel: string;
+  videoTitle: string;
+  start: number;
+  seconds: number;
 }
 
-/** Some channels write chapters in caps; normalise so the chips look uniform. */
-function titleCase(name: string): string {
-  if (name !== name.toUpperCase()) return name;
-  return name
-    .toLowerCase()
-    .replace(/\b[a-z]/g, (c) => c.toUpperCase());
+export interface MuscleData {
+  videos: VideoEntry[];
+  exercises: ExerciseEntry[];
+}
+
+/** Deep link to the exact moment the coach demonstrates this exercise. */
+export function watchAt(exercise: ExerciseEntry): string {
+  return `https://www.youtube.com/watch?v=${exercise.videoId}&t=${Math.max(0, exercise.start)}s`;
+}
+
+export function formatClock(seconds: number): string {
+  const m = Math.floor(seconds / 60);
+  const s = Math.floor(seconds % 60);
+  return `${m}:${String(s).padStart(2, "0")}`;
 }
 
 export function formatViews(views: number): string {

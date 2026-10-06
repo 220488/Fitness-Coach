@@ -1,0 +1,191 @@
+{
+ "dumbbell": {
+  "src": "/equipment/dumbbell.jpg",
+  "title": "Kurzhanteln 2 x 15 kg 2v2.jpg",
+  "author": "Singlespeedfahrer",
+  "licence": "CC0",
+  "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "source": "https://commons.wikimedia.org/wiki/File:Kurzhanteln_2_x_15_kg_2v2.jpg",
+  "needsCredit": false
+ },
+ "ezbar": {
+  "src": "/equipment/ezbar.jpg",
+  "title": "Military press ez-bar 25022008.jpg",
+  "author": "Richardkiwi",
+  "licence": "CC BY-SA 4.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Military_press_ez-bar_25022008.jpg",
+  "needsCredit": true
+ },
+ "kettlebell": {
+  "src": "/equipment/kettlebell.jpg",
+  "title": "Kettlebell truebalance romeike.jpg",
+  "author": "Detlef Romeike",
+  "licence": "CC BY-SA 2.5",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+  "source": "https://commons.wikimedia.org/wiki/File:Kettlebell_truebalance_romeike.jpg",
+  "needsCredit": true
+ },
+ "cable": {
+  "src": "/equipment/cable.jpg",
+  "title": "Woman using a seated cable row machine at the gym.jpg",
+  "author": "Miguel Angel Omaña Rojas",
+  "licence": "CC0",
+  "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "source": "https://commons.wikimedia.org/wiki/File:Woman_using_a_seated_cable_row_machine_at_the_gym.jpg",
+  "needsCredit": false
+ },
+ "pulldown": {
+  "src": "/equipment/pulldown.jpg",
+  "title": "Diverging Lat Pulldown Machine.jpg",
+  "author": "Teddyhtsai",
+  "licence": "CC0",
+  "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "source": "https://commons.wikimedia.org/wiki/File:Diverging_Lat_Pulldown_Machine.jpg",
+  "needsCredit": false
+ },
+ "smith": {
+  "src": "/equipment/smith.jpg",
+  "title": "SmithMachineBenchPress.JPG",
+  "author": "No machine-readable author provided. GeorgeStepanek assumed (based on copyright claims).",
+  "licence": "CC BY-SA 3.0",
+  "licenceUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "source": "https://commons.wikimedia.org/wiki/File:SmithMachineBenchPress.JPG",
+  "needsCredit": true
+ },
+ "machine": {
+  "src": "/equipment/machine.jpg",
+  "title": "DSC 7580 An old rusting multi-station weight machine sits in the center of a dim abandoned gym with a heavy punching bag hanging in the background.jpg",
+  "author": "PattayaPatrol",
+  "licence": "CC BY-SA 4.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:DSC_7580_An_old_rusting_multi-station_weight_machine_sits_in_the_center_of_a_dim_abandoned_gym_with_a_heavy_punching_bag_hanging_in_the_background.jpg",
+  "needsCredit": true
+ },
+ "bench": {
+  "src": "/equipment/bench.jpg",
+  "title": "Bench press 1.jpg",
+  "author": "Lance Cpl. Ronald W. Stauffer",
+  "licence": "Public domain",
+  "licenceUrl": null,
+  "source": "https://commons.wikimedia.org/wiki/File:Bench_press_1.jpg",
+  "needsCredit": false
+ },
+ "incline": {
+  "src": "/equipment/incline.jpg",
+  "title": "Bench Press (4517332).jpg",
+  "author": "U.S. Army 173IBCT-A by Staff Sgt. Alexander Henninger",
+  "licence": "Public domain",
+  "licenceUrl": null,
+  "source": "https://commons.wikimedia.org/wiki/File:Bench_Press_(4517332).jpg",
+  "needsCredit": false
+ },
+ "preacher": {
+  "src": "/equipment/preacher.jpg",
+  "title": "PreacherBenchBicepsCurl.JPG",
+  "author": "No machine-readable author provided. GeorgeStepanek assumed (based on copyright claims).",
+  "licence": "CC BY-SA 3.0",
+  "licenceUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "source": "https://commons.wikimedia.org/wiki/File:PreacherBenchBicepsCurl.JPG",
+  "needsCredit": true
+ },
+ "legPress": {
+  "src": "/equipment/legPress.jpg",
+  "title": "Leg Press Machine.jpg",
+  "author": "Paulmcdonald",
+  "licence": "CC BY-SA 4.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Leg_Press_Machine.jpg",
+  "needsCredit": true
+ },
+ "legCurl": {
+  "src": "/equipment/legCurl.jpg",
+  "title": "LyingLegCurlMachineExercise.JPG",
+  "author": "No machine-readable author provided. GeorgeStepanek assumed (based on copyright claims).",
+  "licence": "CC BY-SA 3.0",
+  "licenceUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "source": "https://commons.wikimedia.org/wiki/File:LyingLegCurlMachineExercise.JPG",
+  "needsCredit": true
+ },
+ "legExtension": {
+  "src": "/equipment/legExtension.jpg",
+  "title": "LegExtensionMachineExercise.JPG",
+  "author": "No machine-readable author provided. GeorgeStepanek assumed (based on copyright claims).",
+  "licence": "CC BY-SA 3.0",
+  "licenceUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "source": "https://commons.wikimedia.org/wiki/File:LegExtensionMachineExercise.JPG",
+  "needsCredit": true
+ },
+ "hackSquat": {
+  "src": "/equipment/hackSquat.jpg",
+  "title": "HackSquatMachineExercise.JPG",
+  "author": "No machine-readable author provided. GeorgeStepanek assumed (based on copyright claims).",
+  "licence": "CC BY-SA 3.0",
+  "licenceUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "source": "https://commons.wikimedia.org/wiki/File:HackSquatMachineExercise.JPG",
+  "needsCredit": true
+ },
+ "band": {
+  "src": "/equipment/band.jpg",
+  "title": "Woman exercising with resistance band in a gym setting.jpg",
+  "author": "Shixart1985",
+  "licence": "CC BY 2.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Woman_exercising_with_resistance_band_in_a_gym_setting.jpg",
+  "needsCredit": true
+ },
+ "step": {
+  "src": "/equipment/step.jpg",
+  "title": "Step platform.jpg",
+  "author": "Corn cheese",
+  "licence": "CC BY-SA 4.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Step_platform.jpg",
+  "needsCredit": true
+ },
+ "pullupBar": {
+  "src": "/equipment/pullupBar.jpg",
+  "title": "Giavonee Rowe, Federal Way High School, competes in the pull-up bar challenge.jpg",
+  "author": "Sgt. Austan Owen",
+  "licence": "Public domain",
+  "licenceUrl": null,
+  "source": "https://commons.wikimedia.org/wiki/File:Giavonee_Rowe,_Federal_Way_High_School,_competes_in_the_pull-up_bar_challenge.jpg",
+  "needsCredit": false
+ },
+ "bosu": {
+  "src": "/equipment/bosu.jpg",
+  "title": "Half ab ball or BOSU Ball.webp",
+  "author": "Wikideas1",
+  "licence": "CC0",
+  "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "source": "https://commons.wikimedia.org/wiki/File:Half_ab_ball_or_BOSU_Ball.webp",
+  "needsCredit": false
+ },
+ "pendulum": {
+  "src": "/equipment/pendulum.jpg",
+  "title": "HackSquatMachineExercise.JPG",
+  "author": "No machine-readable author provided. GeorgeStepanek assumed (based on copyright claims).",
+  "licence": "CC BY-SA 3.0",
+  "licenceUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "source": "https://commons.wikimedia.org/wiki/File:HackSquatMachineExercise.JPG",
+  "needsCredit": true
+ },
+ "barbell": {
+  "src": "/equipment/barbell.jpg",
+  "title": "Olympic barbell.jpg",
+  "author": "Tomáš Pilík",
+  "licence": "CC BY-SA 3.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Olympic_barbell.jpg",
+  "needsCredit": true
+ },
+ "rack": {
+  "src": "/equipment/rack.jpg",
+  "title": "Carlon Colker on Squat rack.jpg",
+  "author": "Wikimethisct",
+  "licence": "CC BY-SA 4.0",
+  "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Carlon_Colker_on_Squat_rack.jpg",
+  "needsCredit": true
+ }
+}

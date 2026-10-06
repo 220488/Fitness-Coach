@@ -1,0 +1,3277 @@
+{
+ "Chest": [
+  {
+   "name": "Bench Press",
+   "slug": "bench-press",
+   "rank": 1,
+   "isTop": true,
+   "videos": 32,
+   "mentions": 136,
+   "equipment": "Barbell + flat bench",
+   "equipmentSource": "movement",
+   "demo": {
+    "videoId": "fGm-ef-4PVk",
+    "channel": "Jeff Nippard",
+    "start": 107,
+    "url": "https://www.youtube.com/watch?v=fGm-ef-4PVk&t=107s"
+   },
+   "quote": {
+    "text": "It feels good to me, although many people do complain that the bench press makes their shoulders feel a little cranky.",
+    "channel": "Jeff Nippard",
+    "videoId": "fGm-ef-4PVk",
+    "at": 118439
+   }
+  },
+  {
+   "name": "Incline Bench Press",
+   "slug": "incline-bench-press",
+   "rank": 2,
+   "isTop": true,
+   "videos": 7,
+   "mentions": 11,
+   "equipment": "Adjustable bench",
+   "equipmentSource": "name",
+   "demo": {
+    "videoId": "fGm-ef-4PVk",
+    "channel": "Jeff Nippard",
+    "start": 153,
+    "url": "https://www.youtube.com/watch?v=fGm-ef-4PVk&t=153s"
+   },
+   "quote": {
+    "text": "However, a recent study found that the incline bench press caused the same lower and mid pec growth as the flat bench did, plus better upper PEC growth.",
+    "channel": "Jeff Nippard",
+    "videoId": "fGm-ef-4PVk",
+    "at": 163680
+   }
+  },
+  {
+   "name": "Flat Dumbbell Press",
+   "slug": "flat-dumbbell-press",
+   "rank": 3,
+   "isTop": true,
+   "videos": 5,
+   "mentions": 6,
+   "equipment": "Dumbbells",
+   "equipmentSource": "name",
+   "demo": {
+    "videoId": "fGm-ef-4PVk",
+    "channel": "Jeff Nippard",
+    "start": 215,
+    "url": "https://www.youtube.com/watch?v=fGm-ef-4PVk&t=215s"
+   },
+   "quote": {
+    "text": "So while the flat dumbbell press is just about an S tier, it's getting knocked down to a tier for those potential overloading issues in more advanced lifters.",
+    "channel": "Jeff Nippard",
+    "videoId": "fGm-ef-4PVk",
+    "at": 247680
+   }
+  },
+  {
+   "name": "Machine Chest Press",
+   "slug": "machine-chest-press",
+   "rank": 4,
+   "isTop": false,
+   "videos": 5,
+   "mentions": 6,
+   "equipment": "Plate-loaded machine",
+   "equipmentSource": "name",
+   "demo": {
+    "videoId": "fGm-ef-4PVk",
+    "channel": "Jeff Nippard",
+    "start": 276,
+    "url": "https://www.youtube.com/watch?v=fGm-ef-4PVk&t=276s"
+   },
+   "quote": {
+    "text": "And so the machine chest press is our first exercise getting awarded to S tier.",
+    "channel": "Jeff Nippard",
+    "videoId": "fGm-ef-4PVk",
+    "at": 303080
+   }
+  },
+  {
+   "name": "Incline Dumbbell Press",
+   "slug": "incline-dumbbell-press",
+   "rank": 5,
+   "isTop": false,
+   "videos": 4,
+   "mentions": 7,
+   "equipment": "Dumbbells",
+   "equipmentSource": "name",
+   "demo": {
+    "videoId": "fGm-ef-4PVk",
+    "channel": "Jeff Nippard",
+    "start": 256,
+    "url": "https://www.youtube.com/watch?v=fGm-ef-4PVk&t=256s"
+   },
+   "quote": null
+  },
+  {
+   "name": "Dumbbell Pullover",
+   "slug": "dumbbell-pullover",
+   "rank": 6,
+   "isTop": false,
+   "videos": 4,
+   "mentions": 4,
+   "equipment": "Dumbbells",
+   "equipmentSource": "name",
+   "demo": {
+    "videoId": "fGm-ef-4PVk",
+    "channel": "Jeff Nippard",
+    "start": 77,
+    "url": "https://www.youtube.com/watch?v=fGm-ef-4PVk&t=77s"
+   },
+   "quote": {
+    "text": "Biomechanics tells us that the pecs do help perform this movement alongside the lats and triceps, and when you look at the activation data, the pecs do activate on pullovers.",
+    "channel": "Jeff Nippard",
+    "videoId": "fGm-ef-4PVk",
+    "at": 78960
+   }
+  },
+  {
+   "name": "Decline Bench Press",
+   "slug": "decline-bench-press",
+   "rank": 7,
+   "isTop": false,
+   "videos": 3,
+   "mentions": 3,
+   "equipment": "Adjustable bench",
+   "equipmentSource": "name",
+   "demo": {
+    "videoId": "fGm-ef-4PVk",
+    "channel": "Jeff Nippard",
+    "start": 176,
+    "url": "https://www.youtube.com/watch?v=fGm-ef-4PVk&t=176s"
+   },
+   "quote": {
+    "text": "The decline bench press doesn't have any long-term research comparing pet growth, like the incline and flat bench.",
+    "channel": "Jeff Nippard",
+    "videoId": "fGm-ef-4PVk",
+    "at": 176239
+   }
+  },
+  {
+   "name": "Single-Arm Dumbbell Press",
+   "slug": "single-arm-dumbbell-press",
+   "rank": 8,
+   "isTop": false,
+   "videos": 3,
+   "mentions": 3,
+   "equipment": "Dumbbells",
+   "equipmentSource": "name",
+   "demo": {
+    "videoId": "fGm-ef-4PVk",
+    "channel": "Jeff Nippard",
+    "start": 549,
+    "url": "https://www.youtube.com/watch?v=fGm-ef-4PVk&t=549s"
+   },
+   "quote": {
+    "text": "I still see this quite a bit at the gym, but doing one arm at a time has no advantage because each PEC has to work individually in a dumbbell press anyway.",
+    "channel": "Jeff Nippard",
+    "videoId": "fGm-ef-4PVk",
+    "at": 551959
+   }
+  },
+  {
+   "name": "Decline Dumbbell Press",
+   "slug": "decline-dumbbell-press",
+   "rank": 9,
+   "isTop": false,
+   "videos": 2,
+   "mentions": 3,
+   "equipment": "Dumbbells",
+   "equipmentSource": "name",
+   "demo": {
+    "videoId": "fGm-ef-4PVk",
+    "channel": "Jeff Nippard",
+    "start": 265,
+    "url": "https://www.youtube.com/watch?v=fGm-ef-4PVk&t=265s"
+   },
+   "quote": null
+  },
+  {
+   "name": "Plate Press",
+   "slug": "plate-press",
+   "rank": 10,
+   "isTop": false,
+   "videos": 2,
+   "mentions": 3,
+   "equipment": "Barbell or dumbbells",
+   "equipmentSource": "movement",
+   "demo": {
+    "videoId": "fGm-ef-4PVk",
+    "channel": "Jeff Nippard",
+    "start": 69,
+    "url": "https://www.youtube.com/watch?v=fGm-ef-4PVk&t=69s"
+   },
+   "quote": {
+    "text": "The plate press is basically a hex press that feels even more awkward with even less overload potential.",
+    "channel": "Jeff Nippard",
+    "videoId": "fGm-ef-4PVk",
+    "at": 69080
+   }
+  },
+  {
+   "name": "Guillotine Press",
+   "slug": "guillotine-press",
+   "rank": 11,
+   "isTop": false,
+   "videos": 2,
+   "mentions": 2,
+   "equipment": "Barbell or dumbbells",
+   "equipmentSource": "movement",
+   "demo": {
+    "videoId": "fGm-ef-4PVk",
+    "channel": "Jeff Nippard",
+    "start": 447,
+    "url": "https://www.youtube.com/watch?v=fGm-ef-4PVk&t=447s"
+   },
+   "quote": {
+    "text": "Some people will bench press guillotine style, where they take a higher position on the chest and they let their elbows come up.",
+    "channel": "Jeff Nippard",
+    "videoId": "fGm-ef-4PVk",
+    "at": 463599
+   }
+  },
+  {
+   "name": "Incline Smith Machine Press",
+   "slug": "incline-smith-machine-press",
+   "rank": 12,
+   "isTop": false,
+   "videos": 2,
+   "mentions": 2,
+   "equipment": "Smith machine",
+   "equipmentSource": "name",
+   "demo": {
+    "videoId": "fGm-ef-4PVk",
+    "channel": "Jeff Nippard",
+    "start": 586,
+    "url": "https://www.youtube.com/watch?v=fGm-ef-4PVk&t=586s"
+   },
+   "quote": null
+  },
+  {
+   "name": "Hex Press",
+   "slug": "hex-press",
+   "rank": 13,
+   "isTop": false,
+   "videos": 1,
+   "mentions": 3,
+   "equipment": "Barbell or dumbbells",
+   "equipmentSource": "movement",
+   "demo": {
+    "videoId": "fGm-ef-4PVk",
+    "channel": "Jeff Nippard",
+    "start": 46,
+    "url": "https://www.youtube.com/watch?v=fGm-ef-4PVk&t=46s"
+   },
+   "quote": {
+    "text": "In fact, I think they'd probably be worse for the incs than a standard dumbbell press, since the in PEC fibers aren't getting as stretched here.",
+    "channel": "Jeff Nippard",
+    "videoId": "fGm-ef-4PVk",
+    "at": 60640
+   }
+  },
+  {
+   "name": "Floor Press",
+   "slug": "floor-press",
+   "rank": 14,
+   "isTop": false,
+   "videos": 1,
+   "mentions": 1,
+   "equipment": "Barbell or dumbbells",
+   "equipmentSource": "movement",
+   "demo": {
+    "videoId": "fGm-ef-4PVk",
+    "channel": "Jeff Nippard",
+    "start": 789,
+    "url": "https://www.youtube.com/watch?v=fGm-ef-4PVk&t=789s"
+   },
+   "quote": {
+    "text": "And if I had to pick one exercise as the worst of the worst, it probably be the plate press.",
+    "channel": "Jeff Nippard",
+    "videoId": "fGm-ef-4PVk",
+    "at": 829720
+   }
+  },
+  {
+   "name": "Cable Press-Around",
+   "slug": "cable-press-around",
+   "rank": 15,
+   "isTop": false,
+   "videos": 1,
+   "mentions": 0,
+   "equipment": "Cable station",
+   "equipmentSource": "name",
+   "demo": {
+    "videoId": "fGm-ef-4PVk",
+    "channel": "Jeff Nippard",
+    "start": 733,
+    "url": "https://www.youtube.com/watch?v=fGm-ef-4PVk&t=733s"
+   },
+   "quote": null
+  },
+  {
+   "name": "Cross-Body Standing Dumbbell Flye",
+   "slug": "cross-body-standing-dumbbell-flye",
+   "rank": 16,
+   "isTop": false,
+   "videos": 1,
+   "mentions": 0,
+   "equipment": "Dumbbells",
+   "equipmentSource": "name",
+   "demo": {
+    "videoId": "fGm-ef-4PVk",
+    "channel": "Jeff Nippard",
+    "start": 763,
+    "url": "https://www.youtube.com/watch?v=fGm-ef-4PVk&t=763s"
+   },
+   "quote": null
+  },
+  {
+   "name": "Dumbbell Flye",
+   "slug": "dumbbell-flye",
+   "rank": 17,
+   "isTop": false,
+   "videos": 1,
+   "mentions": 0,
+   "equipment": "Dumbbells",
+   "equipmentSource": "name",
+   "demo": {
+    "videoId": "fGm-ef-4PVk",
+    "channel": "Jeff Nippard",
+    "start": 692,
+    "url": "https://www.youtube.com/watch?v=fGm-ef-4PVk&t=692s"
+   },
+   "quote": null
+  },
+  {
+   "name": "Dumbbell Guillotine Press",
+   "slug": "dumbbell-guillotine-press",
+   "rank": 18,
+   "isTop": false,
+   "videos": 1,
+   "mentions": 0,
+   "equipment": "Dumbbells",
+   "equipmentSource": "name",
+   "demo": {
+    "videoId": "fGm-ef-4PVk",
+    "channel": "Jeff Nippard",
+    "start": 529,
+    "url": "https://www.youtube.com/watch?v=fGm-ef-4PVk&t=529s"
+   },
+   "quote": {
+    "text": "To round out the dumbbell press variations, I guess I'll cover the one arm dumbbell press.",
+    "channel": "Jeff Nippard",
+    "videoId": "fGm-ef-4PVk",
+    "at": 547920
+   }
+  },
+  {
+   "name": "Seated Cable Pec Flye",
+   "slug": "seated-cable-pec-flye",
+   "rank": 19,
+   "isTop": false,
+   "videos": 1,
+   "mentions": 0,
+   "equipment": "Cable station",
+   "equipmentSource": "name",
+   "demo": {
+    "videoId": "fGm-ef-4PVk",
+    "channel": "Jeff Nippard",
+    "start": 649,
+    "url": "https://www.youtube.com/watch?v=fGm-ef-4PVk&t=649s"
+   },
+   "quote": null
+  },
+  {
+   "name": "Smith Machine Flat Bench Press",
+   "slug": "smith-machine-flat-bench-press",
+   "rank": 20,
+   "isTop": false,
+   "videos": 1,
+   "mentions": 0,
+   "equipment": "Smith machine",
+   "equipmentSource": "name",
+   "demo": {
+    "videoId": "fGm-ef-4PVk",
+    "channel": "Jeff Nippard",
+    "start": 568,
+    "url": "https://www.youtube.com/watch?v=fGm-ef-4PVk&t=568s"
+   },
+   "quote": {
+    "text": "A great alternative to the standard bench press with all the same upsides.",
+    "channel": "Jeff Nippard",
+    "videoId": "fGm-ef-4PVk",
+    "at": 575519
+   }
+  }
+ ],
+ "Shoulders": [
+  {
+   "name": "Upright Row",
+   "slug": "upright-row",
+   "rank": 1,
+   "isTop": true,
+   "videos": 7,
+   "mentions": 37,
+   "equipment": "Barbell",
+   "equipmentSource": "movement",
+   "demo": {
+    "videoId": "SgyUoY0IZ7A",
+    "channel": "Jeff Nippard",
+    "start": 595,
+    "url": "https://www.youtube.com/watch?v=SgyUoY0IZ7A&t=595s"
+   },
+   "quote": {
+    "text": "They're still a great overall, Yol Builder, though, and I am a fan of upright rows.",
+    "channel": "Jeff Nippard",
+    "videoId": "SgyUoY0IZ7A",
+    "at": 622160
+   }
+  },
+  {
+   "name": "Overhead Press",
+   "slug": "overhead-press",
+   "rank": 2,
+   "isTop": true,
+   "videos": 7,
+   "mentions": 23,
+   "equipment": "Barbell or dumbbells",
+   "equipmentSource": "movement",
+   "demo": {
+    "videoId": "SgyUoY0IZ7A",
+    "channel": "Jeff Nippard",
+    "start": 230,
+    "url": "https://www.youtube.com/watch?v=SgyUoY0IZ7A&t=230s"
+   },
+   "quote": {
+    "text": "When we look at activation patterns across the delt heads, you see that the side and rear heads aren't activated much with the overhead press.",
+    "channel": "Jeff Nippard",
+    "videoId": "SgyUoY0IZ7A",
+    "at": 274199
+   }
+  },
+  {
+   "name": "Cable Lateral Raise",
+   "slug": "cable-lateral-raise",
+   "rank": 3,
+   "isTop": true,
+   "videos": 6,
+   "mentions": 13,
+   "equipment": "Cable station",
+   "equipmentSource": "name",
+   "demo": {
+    "videoId": "SgyUoY0IZ7A",
+    "channel": "Jeff Nippard",
+    "start": 477,
+    "url": "https://www.youtube.com/watch?v=SgyUoY0IZ7A&t=477s"
+   },
+   "quote": {
+    "text": "The cable lateral raise is incredible because as long as you set the cable at around hand height, it'll provide maximum tension on the side delt while it's most stretched.",
+    "channel": "Jeff Nippard",
+    "videoId": "SgyUoY0IZ7A",
+    "at": 477199
+   }
+  },
+  {
+   "name": "Front Raise",
+   "slug": "front-raise",
+   "rank": 4,
+   "isTop": false,
+   "videos": 5,
+   "mentions": 17,
+   "equipment": "Dumbbells",
+   "equipmentSource": "movement",
+   "demo": {
+    "videoId": "wXTS9fjFUVg",
+    "channel": "Renaissance Periodization",
+    "start": 1605,
+    "url": "https://www.youtube.com/watch?v=wXTS9fjFUVg&t=1605s"
+   },
+   "quote": {
+    "text": "All right, the last delt exercise is actually a combo of a barbell front raise to a barbell upright row.",
+    "channel": "Renaissance Periodization",
+    "videoId": "wXTS9fjFUVg",
+    "at": 1611360
+   }
+  },
+  {
+   "name": "Machine Shoulder Press",
+   "slug": "machine-shoulder-press",
+   "rank": 5,
+   "isTop": false,
+   "videos": 3,
+   "mentions": 4,
+   "equipment": "Plate-loaded machine",
+   "equipmentSource": "name",
+   "demo": {
+    "videoId": "SgyUoY0IZ7A",
+    "channel": "Jeff Nippard",
+    "start": 349,
+    "url": "https://www.youtube.com/watch?v=SgyUoY0IZ7A&t=349s"
+   },
+   "quote": {
+    "text": "If you don't have a good shoulder press machine, my next go-to would be the seated dumbbell shoulder press.",
+    "channel": "Jeff Nippard",
+    "videoId": "SgyUoY0IZ7A",
+    "at": 378639
+   }
+  },
+  {
+   "name": "Rope Face Pull",
+   "slug": "rope-face-pull",
+   "rank": 6,
+   "isTop": false,
+   "videos": 2,
+   "mentions": 4,
+   "equipment": "Cable station",
+   "equipmentSource": "context",
+   "demo": {
+    "videoId": "SgyUoY0IZ7A",
+    "channel": "Jeff Nippard",
+    "start": 661,
+    "url": "https://www.youtube.com/watch?v=SgyUoY0IZ7A&t=661s"
+   },
+   "quote": {
+    "text": "For this reason, the standard rope face pull is going in B tier.",
+    "channel": "Jeff Nippard",
+    "videoId": "jLvqKgW-_G8",
+    "at": 610480
+   }
+  },
+  {
+   "name": "Banded Lateral Raise",
+   "slug": "banded-lateral-raise",
+   "rank": 7,
+   "isTop": false,
+   "videos": 1,
+   "mentions": 1,
+   "equipment": "Resistance band",
+   "equipmentSource": "name",
+   "demo": {
+    "videoId": "SgyUoY0IZ7A",
+    "channel": "Jeff Nippard",
+    "start": 577,
+    "url": "https://www.youtube.com/watch?v=SgyUoY0IZ7A&t=577s"
+   },
+   "quote": {
+    "text": "Similar to the dumbbell lateral raise, it provides zero tension in the stretch and maximum tension at the top, unless all you have is a band.",
+    "channel": "Jeff Nippard",
+    "videoId": "SgyUoY0IZ7A",
+    "at": 582200
+   }
+  },
+  {
+   "name": "Reverse Cable Crossover",
+   "slug": "reverse-cable-crossover",
+   "rank": 8,
+   "isTop": false,
+   "videos": 1,
+   "mentions": 1,
+   "equipment": "Cable station",
+   "equipmentSource": "name",
+   "demo": {
+    "videoId": "SgyUoY0IZ7A",
+    "channel": "Jeff Nippard",
+    "start": 718,
+    "url": "https://www.youtube.com/watch?v=SgyUoY0IZ7A&t=718s"
+   },
+   "quote": {
+    "text": "All right, the reverse cable crossover: amazing stretch on your rear delts, especially if you cross your.",
+    "channel": "Jeff Nippard",
+    "videoId": "SgyUoY0IZ7A",
+    "at": 718360
+   }
+  },
+  {
+   "name": "Seated Machine Lateral Raise",
+   "slug": "seated-machine-lateral-raise",
+   "rank": 9,
+   "isTop": false,
+   "videos": 1,
+   "mentions": 1,
+   "equipment": "Plate-loaded machine",
+   "equipmentSource": "name",
+   "demo": {
+    "videoId": "SgyUoY0IZ7A",
+    "channel": "Jeff Nippard",
+    "start": 458,
+    "url": "https://www.youtube.com/watch?v=SgyUoY0IZ7A&t=458s"
+   },
+   "quote": {
+    "text": "The seated machine lateral raise is similar and I include it as well, but for whatever reason, having the pads higher up on my arms doesn't feel quite as good.",
+    "channel": "Jeff Nippard",
+    "videoId": "SgyUoY0IZ7A",
+    "at": 458039
+   }
+  },
+  {
+   "name": "Standing Dumbbell Lateral Raise",
+   "slug": "standing-dumbbell-lateral-raise",
+   "rank": 10,
+   "isTop": false,
+   "videos": 1,
+   "mentions": 1,
+   "equipment": "Dumbbells",
+   "equipmentSource": "name",
+   "demo": {
+    "videoId": "SgyUoY0IZ7A",
+    "channel": "Jeff Nippard",
+    "start": 100,
+    "url": "https://www.youtube.com/watch?v=SgyUoY0IZ7A&t=100s"
+   },
+   "quote": null
+  },
+  {
+   "name": "Behind-The-Back Cuffed Lateral Raise",
+   "slug": "behind-the-back-cuffed-lateral-raise",
+   "rank": 11,
+   "isTop": false,
+   "videos": 1,
+   "mentions": 0,
+   "equipment": "Dumbbells",
+   "equipmentSource": "movement",
+   "demo": {
+    "videoId": "SgyUoY0IZ7A",
+    "channel": "Jeff Nippard",
+    "start": 546,
+    "url": "https://www.youtube.com/watch?v=SgyUoY0IZ7A&t=546s"
+   },
+   "quote": {
+    "text": "The behind the back cuffed lateral raise is the most gimmicky looking exercise that I actually do, but I think it's amazing.",
+    "channel": "Jeff Nippard",
+    "videoId": "SgyUoY0IZ7A",
+    "at": 546000
+   }
+  },
+  {
+   "name": "Bent Over Reverse Dumbbell Flye",
+   "slug": "bent-over-reverse-dumbbell-flye",
+   "rank": 12,
+   "isTop": false,
+   "videos": 1,
+   "mentions": 0,
+   "equipment": "Dumbbells",
+   "equipmentSource": "name",
+   "demo": {
+    "videoId": "SgyUoY0IZ7A",
+    "channel": "Jeff Nippard",
+    "start": 696,
+    "url": "https://www.youtube.com/watch?v=SgyUoY0IZ7A&t=696s"
+   },
+   "quote": null
+  },
+  {
+   "name": "Cable Y-Raise",
+   "slug": "cable-y-raise",
+   "rank": 13,
+   "isTop": false,
+   "videos": 1,
+   "mentions": 0,
+   "equipment": "Cable station",
+   "equipmentSource": "name",
+   "demo": {
+    "videoId": "SgyUoY0IZ7A",
+    "channel": "Jeff Nippard",
+    "start": 533,
+    "url": "https://www.youtube.com/watch?v=SgyUoY0IZ7A&t=533s"
+   },
+   "quote": null
+  },
+  {
+   "name": "Dumbbell Overhead Press",
+   "slug": "dumbbell-overhead-press",
+   "rank": 14,
+   "isTop": false,
+   "videos": 1,
+   "mentions": 0,
+   "equipment": "Dumbbells",
+   "equipmentSource": "name",
+   "demo": {
+    "videoId": "SgyUoY0IZ7A",
+    "channel": "Jeff Nippard",
+    "start": 325,
+    "url": "https://www.youtube.com/watch?v=SgyUoY0IZ7A&t=325s"
+   },
+   "quote": null
+  },
+  {
+   "name": "Lean-Away Dumbbell Lateral Raise",
+   "slug": "lean-away-dumbbell-lateral-raise",
+   "rank": 15,
+   "isTop": false,
+   "videos": 1,
+   "mentions": 0,
+   "equipment": "Dumbbells",
+   "equipmentSource": "name",
+   "demo": {
+    "videoId": "SgyUoY0IZ7A",
+    "channel": "Jeff Nippard",
+    "start": 178,
+    "url": "https://www.youtube.com/watch?v=SgyUoY0IZ7A&t=178s"
+   },
+   "quote": null
+  },
+  {
+   "name": "Lean-In Dumbbell Lateral Raise",
+   "slug": "lean-in-dumbbell-lateral-raise",
+   "rank": 16,
+   "isTop": false,
+   "videos": 1,
+   "mentions": 0,
+   "equipment": "Dumbbells",
+   "equipmentSource": "name",
+   "demo": {
+    "videoId": "SgyUoY0IZ7A",
+    "channel": "Jeff Nippard",
+    "start": 163,
+    "url": "https://www.youtube.com/watch?v=SgyUoY0IZ7A&t=163s"
+   },
+   "quote": {
+    "text": "I think that this is the most effective way to do lateral raises with dumbbells.",
+    "channel": "Jeff Nippard",
+    "videoId": "SgyUoY0IZ7A",
+    "at": 170760
+   }
+  },
+  {
+   "name": "Seated Overhead Press",
+   "slug": "seated-overhead-press",
+   "rank": 17,
+   "isTop": false,
+   "videos": 1,
+   "mentions": 0,
+   "equipment": "Barbell or dumbbells",
+   "equipmentSource": "movement",
+   "demo": {
+    "videoId": "SgyUoY0IZ7A",
+    "channel": "Jeff Nippard",
+    "start": 311,
+    "url": "https://www.youtube.com/watch?v=SgyUoY0IZ7A&t=311s"
+   },
+   "quote": null
+  },
+  {
+   "name": "Super ROM Lateral Raise",
+   "slug": "super-rom-lateral-raise",
+   "rank": 18,
+   "isTop": false,
+   "videos": 1,
+   "mentions": 0,
+   "equipment": "Dumbbells",
+   "equipmentSource": "movement",
+   "demo": {
+    "videoId": "SgyUoY0IZ7A",
+    "channel": "Jeff Nippard",
+    "start": 193,
+    "url": "https://www.youtube.com/watch?v=SgyUoY0IZ7A&t=193s"
+   },
+   "quote": null
+  }
+ ],
+ "Triceps": [
+  {
+   "name": "Skullcrusher",
+   "slug": "skullcrusher",
+   "rank": 1,
+   "isTop": true,
+   "videos": 9,
+   "mentions": 50,
+   "equipment": "EZ bar + flat bench",
+   "equipmentSource": "movement",
+   "demo": {
+    "videoId": "OpRMRhr0Ycc",
+    "channel": "Jeff Nippard",
+    "start": 410,
+    "url": "https://www.youtube.com/watch?v=OpRMRhr0Ycc&t=410s"
+   },
+   "quote": null
+  },
+  {
+   "name": "Cable Pushdown",
+   "slug": "cable-pushdown",
+   "rank": 2,
+   "isTop": true,
+   "videos": 7,
+   "mentions": 13,
+   "equipment": "Cable station",
+   "equipmentSource": "name",
+   "demo": {
+    "videoId": "7lsBh8ezkVY",
+    "channel": "Renaissance Periodization",
+    "start": 322,
+    "url": "https://www.youtube.com/watch?v=7lsBh8ezkVY&t=322s"
+   },
+   "quote": null
+  },
+  {
+   "name": "Dumbbell Skullcrusher",
+   "slug": "dumbbell-skullcrusher",
+   "rank": 3,
+   "isTop": true,
+   "videos": 5,
+   "mentions": 8,
+   "equipment": "Dumbbells",
+   "equipmentSource": "name",
+   "demo": {
+    "videoId": "OpRMRhr0Ycc",
+    "channel": "Jeff Nippard",
+    "start": 453,
+    "url": "https://www.youtube.com/watch?v=OpRMRhr0Ycc&t=453s"
+   },
+   "quote": null
+  },
+  {
+   "name": "JM Press",
+   "slug": "jm-press",
+   "rank": 4,
+   "isTop": false,
+   "videos": 3,
+   "mentions": 9,
+   "equipment": "Barbell or dumbbells",
+   "equipmentSource": "movement",
+   "demo": {
+    "videoId": "OpRMRhr0Ycc",
+    "channel": "Jeff Nippard",
+    "start": 478,
+    "url": "https://www.youtube.com/watch?v=OpRMRhr0Ycc&t=478s"
+   },
+   "quote": {
+    "text": "All things considered, I'm going to put the JM press in B tier.",
+    "channel": "Jeff Nippard",
+    "videoId": "OpRMRhr0Ycc",
+    "at": 524360
+   }
+  },
+  {
+   "name": "Smith Machine JM Press",
+   "slug": "smith-machine-jm-press",
+   "rank": 5,
+   "isTop": false,
+   "videos": 2,
+   "mentions": 9,
+   "equipment": "Smith machine",
+   "equipmentSource": "name",
+   "demo": {
+    "videoId": "OpRMRhr0Ycc",
+    "channel": "Jeff Nippard",
+    "start": 529,
+    "url": "https://www.youtube.com/watch?v=OpRMRhr0Ycc&t=529s"
+   },
+   "quote": null
+  },
+  {
+   "name": "Diamond Pushup",
+   "slug": "diamond-pushup",
+   "rank": 6,
+   "isTop": false,
+   "videos": 2,
+   "mentions": 5,
+   "equipment": "Bodyweight",
+   "equipmentSource": "movement",
+   "demo": {
+    "videoId": "OpRMRhr0Ycc",
+    "channel": "Jeff Nippard",
+    "start": 796,
+    "url": "https://www.youtube.com/watch?v=OpRMRhr0Ycc&t=796s"
+   },
+   "quote": null
+  },
+  {
+   "name": "Single-Arm Dumbbell Overhead Extension",
+   "slug": "single-arm-dumbbell-overhead-extension",
+   "rank": 7,
+   "isTop": false,
+   "videos": 2,
+   "mentions": 1,
+   "equipment": "Dumbbells",
+   "equipmentSource": "name",
+   "demo": {
+    "videoId": "OpRMRhr0Ycc",
+    "channel": "Jeff Nippard",
+    "start": 390,
+    "url": "https://www.youtube.com/watch?v=OpRMRhr0Ycc&t=390s"
+   },
+   "quote": {
+    "text": "One arm dumbbell tricep extensions are going in a tier all right.",
+    "channel": "Jeff Nippard",
+    "videoId": "OpRMRhr0Ycc",
+    "at": 406960
+   }
+  },
+  {
+   "name": "Close-Grip Bench Press",
+   "slug": "close-grip-bench-press",
+   "rank": 8,
+   "isTop": false,
+   "videos": 1,
+   "mentions": 5,
+   "equipment": "Barbell + flat bench",
+   "equipmentSource": "movement",
+   "demo": {
+    "videoId": "OpRMRhr0Ycc",
+    "channel": "Jeff Nippard",
+    "start": 728,
+    "url": "https://www.youtube.com/watch?v=OpRMRhr0Ycc&t=728s"
+   },
+   "quote": {
+    "text": "The bar will provide consistent tension throughout the range of motion, and to me a close grip bench press feels.",
+    "channel": "Jeff Nippard",
+    "videoId": "OpRMRhr0Ycc",
+    "at": 740480
+   }
+  },
+  {
+   "name": "Incline Dumbbell Overhead Extension",
+   "slug": "incline-dumbbell-overhead-extension",
+   "rank": 9,
+   "isTop": false,
+   "videos": 1,
+   "mentions": 2,
+   "equipment": "Dumbbells",
+   "equipmentSource": "name",
+   "demo": {
+    "videoId": "tmgfpdpQ5sk",
+    "channel": "Jeremy Ethier",
+    "start": 217,
+    "url": "https://www.youtube.com/watch?v=tmgfpdpQ5sk&t=217s"
+   },
+   "quote": null
+  },
+  {
+   "name": "Barbell Skullcrusher",
+   "slug": "barbell-skullcrusher",
+   "rank": 10,
+   "isTop": false,
+   "videos": 1,
+   "mentions": 1,
+   "equipment": "Barbell",
+   "equipmentSource": "name",
+   "demo": {
+    "videoId": "7lsBh8ezkVY",
+    "channel": "Renaissance Periodization",
+    "start": 209,
+    "url": "https://www.youtube.com/watch?v=7lsBh8ezkVY&t=209s"
+   },
+   "quote": null
+  },
+  {
+   "name": "Bench Dips",
+   "slug": "bench-dips",
+   "rank": 11,
+   "isTop": false,
+   "videos": 1,
+   "mentions": 1,
+   "equipment": "Barbell + flat bench",
+   "equipmentSource": "movement",
+   "demo": {
+    "videoId": "OpRMRhr0Ycc",
+    "channel": "Jeff Nippard",
+    "start": 680,
+    "url": "https://www.youtube.com/watch?v=OpRMRhr0Ycc&t=680s"
+   },
+   "quote": {
+    "text": "Bench dips work the triceps in a similar shoulder position and I do.",
+    "channel": "Jeff Nippard",
+    "videoId": "OpRMRhr0Ycc",
+    "at": 681079
+   }
+  },
+  {
+   "name": "Cable Triceps Kickback",
+   "slug": "cable-triceps-kickback",
+   "rank": 12,
+   "isTop": false,
+   "videos": 1,
+   "mentions": 1,
+   "equipment": "Cable station",
+   "equipmentSource": "name",
+   "demo": {
+    "videoId": "OpRMRhr0Ycc",
+    "channel": "Jeff Nippard",
+    "start": 545,
+    "url": "https://www.youtube.com/watch?v=OpRMRhr0Ycc&t=545s"
+   },
+   "quote": {
+    "text": "Kickbacks are one of the very few exercises where you get to smash the triceps with the arm held back behind the torso.",
+    "channel": "Jeff Nippard",
+    "videoId": "OpRMRhr0Ycc",
+    "at": 545959
+   }
+  },
+  {
+   "name": "Close-Grip Dumbbell Press",
+   "slug": "close-grip-dumbbell-press",
+   "rank": 13,
+   "isTop": false,
+   "videos": 1,
+   "mentions": 1,
+   "equipment": "Dumbbells",
+   "equipmentSource": "name",
+   "demo": {
+    "videoId": "WOW6zPhqKKI",
+    "channel": "Jeremy Ethier",
+    "start": 86,
+    "url": "https://www.youtube.com/watch?v=WOW6zPhqKKI&t=86s"
+   },
+   "quote": {
+    "text": "In addition, we know based on EMG analysis done on the barbell bench press that moving the hands closer together shifts more of the tension to the triceps.",
+    "channel": "Jeremy Ethier",
+    "videoId": "WOW6zPhqKKI",
+    "at": 125520
+   }
+  },
+  {
+   "name": "Close-Grip Pushup",
+   "slug": "close-grip-pushup",
+   "rank": 14,
+   "isTop": false,
+   "videos": 1,
+   "mentions": 1,
+   "equipment": "Bodyweight",
+   "equipmentSource": "movement",
+   "demo": {
+    "videoId": "OpRMRhr0Ycc",
+    "channel": "Jeff Nippard",
+    "start": 779,
+    "url": "https://www.youtube.com/watch?v=OpRMRhr0Ycc&t=779s"
+   },
+   "quote": null
+  },
+  {
+   "name": "Dumbbell French Press",
+   "slug": "dumbbell-french-press",
+   "rank": 15,
+   "isTop": false,
+   "videos": 1,
+   "mentions": 1,
+   "equipment": "Dumbbells",
+   "equipmentSource": "name",
+   "demo": {
+    "videoId": "OpRMRhr0Ycc",
+    "channel": "Jeff Nippard",
+    "start": 348,
+    "url": "https://www.youtube.com/watch?v=OpRMRhr0Ycc&t=348s"
+   },
+   "quote": {
+    "text": "I still like the French press and I still include these periodically, but I do prefer the cables and I'm going to put these in B tier.",
+    "channel": "Jeff Nippard",
+    "videoId": "OpRMRhr0Ycc",
+    "at": 383960
+   }
+  },
+  {
+   "name": "Overhead Cable Triceps Extension",
+   "slug": "overhead-cable-triceps-extension",
+   "rank": 16,
+   "isTop": false,
+   "videos": 1,
+   "mentions": 1,
+   "equipment": "Cable station",
+   "equipmentSource": "name",
+   "demo": {
+    "videoId": "OpRMRhr0Ycc",
+    "channel": "Jeff Nippard",
+    "start": 193,
+    "url": "https://www.youtube.com/watch?v=OpRMRhr0Ycc&t=193s"
+   },
+   "quote": {
+    "text": "The overhead cable triceps extension is a similar movement where you're just bending and extending your elbow, except for one crucial difference: you move your arms up overhead.",
+    "channel": "Jeff Nippard",
+    "videoId": "OpRMRhr0Ycc",
+    "at": 193080
+   }
+  },
+  {
+   "name": "Dumbbell Triceps Kickback",
+   "slug": "dumbbell-triceps-kickback",
+   "rank": 17,
+   "isTop": false,
+   "videos": 1,
+   "mentions": 0,
+   "equipment": "Dumbbells",
+   "equipmentSource": "name",
+   "demo": {
+    "videoId": "OpRMRhr0Ycc",
+    "channel": "Jeff Nippard",
+    "start": 600,
+    "url": "https://www.youtube.com/watch?v=OpRMRhr0Ycc&t=600s"
+   },
+   "quote": {
+    "text": "This isn't great because we'd want to bias tension toward the stretched aspect as much as we can, and the dumbbell kickback does the exact opposite.",
+    "channel": "Jeff Nippard",
+    "videoId": "OpRMRhr0Ycc",
+    "at": 609839
+   }
+  },
+  {
+   "name": "Katana Cable Triceps Extension",
+   "slug": "katana-cable-triceps-extension",
+   "rank": 18,
+   "isTop": false,
+   "videos": 1,
+   "mentions": 0,
+   "equipment": "Cable station",
+   "equipmentSource": "name",
+   "demo": {
+    "videoId": "OpRMRhr0Ycc",
+    "channel": "Jeff Nippard",
+    "start": 295,
+    "url": "https://www.youtube.com/watch?v=OpRMRhr0Ycc&t=295s"
+   },
+   "quote": null
+  },
+  {
+   "name": "Low Incline Skullcrusher",
+   "slug": "low-incline-skullcrusher",
+   "rank": 19,
+   "isTop": false,
+   "videos": 1,
+   "mentions": 0,
+   "equipment": "Adjustable bench",
+   "equipmentSource": "name",
+   "demo": {
+    "videoId": "7lsBh8ezkVY",
+    "channel": "Renaissance Periodization",
+    "start": 634,
+    "url": "https://www.youtube.com/watch?v=7lsBh8ezkVY&t=634s"
+   },
+   "quote": null
+  },
+  {
+   "name": "Single-Arm Extension",
+   "slug": "single-arm-extension",
+   "rank": 20,
+   "isTop": false,
+   "videos": 1,
+   "mentions": 0,
+   "equipment": "Cable or dumbbells",
+   "equipmentSource": "movement",
+   "demo": {
+    "videoId": "7lsBh8ezkVY",
+    "channel": "Renaissance Periodization",
+    "start": 521,
+    "url": "https://www.youtube.com/watch?v=7lsBh8ezkVY&t=521s"
+   },
+   "quote": {
+    "text": "The thing is, yes, behind the neck extensions with cables and with barbells are awesome when it's two arm, but sometimes it means a lot of spinal strains.",
+    "channel": "Renaissance Periodization",
+    "videoId": "7lsBh8ezkVY",
+    "at": 532000
+   }
+  }
+ ],
+ "Back": [
+  {
+   "name": "Deadlift",
+   "slug": "deadlift",
+   "rank": 1,
+   "isTop": true,
+   "videos": 41,
+   "mentions": 112,
+   "equipment": "Barbell",
+   "equipmentSource": "movement",
+   "demo": {
+    "videoId": "jLvqKgW-_G8",
+    "channel": "Jeff Nippard",
+    "start": 100,
+    "url": "https://www.youtube.com/watch?v=jLvqKgW-_G8&t=100s"
+   },
+   "quote": {
+    "text": "The conventional deadlift is a good glute Builder since it trains hip extension, it gives a big stretch on the lower glutes and it's amazing for Progressive overload.",
+    "channel": "Jeff Nippard",
+    "videoId": "3ryh7PNhz3E",
+    "at": 652040
+   }
+  },
+  {
+   "name": "Chinup",
+   "slug": "chinup",
+   "rank": 2,
+   "isTop": true,
+   "videos": 11,
+   "mentions": 16,
+   "equipment": "Pull-up bar",
+   "equipmentSource": "name",
+   "demo": {
+    "videoId": "jLvqKgW-_G8",
+    "channel": "Jeff Nippard",
+    "start": 203,
+    "url": "https://www.youtube.com/watch?v=jLvqKgW-_G8&t=203s"
+   },
+   "quote": null
+  },
+  {
+   "name": "Barbell Row",
+   "slug": "barbell-row",
+   "rank": 3,
+   "isTop": true,
+   "videos": 8,
+   "mentions": 20,
+   "equipment": "Barbell",
+   "equipmentSource": "name",
+   "demo": {
+    "videoId": "6eBwGki2JuU",
+    "channel": "Renaissance Periodization",
+    "start": 1154,
+    "url": "https://www.youtube.com/watch?v=6eBwGki2JuU&t=1154s"
+   },
+   "quote": {
+    "text": "But on a serious note, the barbell row is, as the kids say, goated, which I think means greatest of all time, which makes no sense, of course, as young people tend not.",
+    "channel": "Renaissance Periodization",
+    "videoId": "6eBwGki2JuU",
+    "at": 1179360
+   }
+  },
+  {
+   "name": "Cable Row",
+   "slug": "cable-row",
+   "rank": 4,
+   "isTop": false,
+   "videos": 8,
+   "mentions": 11,
+   "equipment": "Cable station",
+   "equipmentSource": "name",
+   "demo": {
+    "videoId": "jLvqKgW-_G8",
+    "channel": "Jeff Nippard",
+    "start": 562,
+    "url": "https://www.youtube.com/watch?v=jLvqKgW-_G8&t=562s"
+   },
+   "quote": null
+  },
+  {
+   "name": "Inverted Row",
+   "slug": "inverted-row",
+   "rank": 5,
+   "isTop": false,
+   "videos": 6,
+   "mentions": 18,
+   "equipment": "Barbell",
+   "equipmentSource": "movement",
+   "demo": {
+    "videoId": "jLvqKgW-_G8",
+    "channel": "Jeff Nippard",
+    "start": 412,
+    "url": "https://www.youtube.com/watch?v=jLvqKgW-_G8&t=412s"
+   },
+   "quote": null
+  },
+  {
+   "name": "Chest-Supported Row",
+   "slug": "chest-supported-row",
+   "rank": 6,
+   "isTop": false,
+   "videos": 3,
+   "mentions": 7,
+   "equipment": "Barbell",
+   "equipmentSource": "movement",
+   "demo": {
+    "videoId": "UUiQXbg6dMQ",
+    "channel": "Hypertrophy Coach",
+    "start": 514,
+    "url": "https://www.youtube.com/watch?v=UUiQXbg6dMQ&t=514s"
+   },
+   "quote": {
+    "text": "So the big thing here is really any chest supported row that has this arm path.",
+    "channel": "Hypertrophy Coach",
+    "videoId": "UUiQXbg6dMQ",
+    "at": 572320
+   }
+  },
+  {
+   "name": "Machine Row",
+   "slug": "machine-row",
+   "rank": 7,
+   "isTop": false,
+   "videos": 2,
+   "mentions": 5,
+   "equipment": "Plate-loaded machine",
+   "equipmentSource": "name",
+   "demo": {
+    "videoId": "6eBwGki2JuU",
+    "channel": "Renaissance Periodization",
+    "start": 577,
+    "url": "https://www.youtube.com/watch?v=6eBwGki2JuU&t=577s"
+   },
+   "quote": {
+    "text": "Number three in our awesome back movement rotation is the machine row.",
+    "channel": "Renaissance Periodization",
+    "videoId": "6eBwGki2JuU",
+    "at": 585920
+   }
+  },
+  {
+   "name": "Rope Face Pull",
+   "slug": "rope-face-pull",
+   "rank": 8,
+   "isTop": false,
+   "videos": 2,
+   "mentions": 4,
+   "equipment": "Cable station",
+   "equipmentSource": "context",
+   "demo": {
+    "videoId": "jLvqKgW-_G8",
+    "channel": "Jeff Nippard",
+    "start": 590,
+    "url": "https://www.youtube.com/watch?v=jLvqKgW-_G8&t=590s"
+   },
+   "quote": {
+    "text": "For this reason, the standard rope face pull is going in B tier.",
+    "channel": "Jeff Nippard",
+    "videoId": "jLvqKgW-_G8",
+    "at": 610480
+   }
+  },
+  {
+   "name": "Wide-Grip Pullup",
+   "slug": "wide-grip-pullup",
+   "rank": 9,
+   "isTop": false,
+   "videos": 2,
+   "mentions": 4,
+   "equipment": "Pull-up bar",
+   "equipmentSource": "name",
+   "demo": {
+    "videoId": "jLvqKgW-_G8",
+    "channel": "Jeff Nippard",
+    "start": 166,
+    "url": "https://www.youtube.com/watch?v=jLvqKgW-_G8&t=166s"
+   },
+   "quote": null
+  },
+  {
+   "name": "Single-Arm Pulldown",
+   "slug": "single-arm-pulldown",
+   "rank": 10,
+   "isTop": false,
+   "videos": 2,
+   "mentions": 2,
+   "equipment": "Cable pulldown station",
+   "equipmentSource": "name",
+   "demo": {
+    "videoId": "UUiQXbg6dMQ",
+    "channel": "Hypertrophy Coach",
+    "start": 207,
+    "url": "https://www.youtube.com/watch?v=UUiQXbg6dMQ&t=207s"
+   },
+   "quote": null
+  },
+  {
+   "name": "Meadows Row",
+   "slug": "meadows-row",
+   "rank": 11,
+   "isTop": false,
+   "videos": 1,
+   "mentions": 1,
+   "equipment": "Barbell",
+   "equipmentSource": "movement",
+   "demo": {
+    "videoId": "jLvqKgW-_G8",
+    "channel": "Jeff Nippard",
+    "start": 388,
+    "url": "https://www.youtube.com/watch?v=jLvqKgW-_G8&t=388s"
+   },
+   "quote": {
+    "text": "The Meadows row, named after the late great John Meadows, who is someone who taught me so much.",
+    "channel": "Jeff Nippard",
+    "videoId": "jLvqKgW-_G8",
+    "at": 388360
+   }
+  },
+  {
+   "name": "Neutral-Grip Pullup",
+   "slug": "neutral-grip-pullup",
+   "rank": 12,
+   "isTop": false,
+   "videos": 1,
+   "mentions": 1,
+   "equipment": "Pull-up bar",
+   "equipmentSource": "name",
+   "demo": {
+    "videoId": "jLvqKgW-_G8",
+    "channel": "Jeff Nippard",
+    "start": 196,
+    "url": "https://www.youtube.com/watch?v=jLvqKgW-_G8&t=196s"
+   },
+   "quote": null
+  },
+  {
+   "name": "Single-Arm Dumbbell Row",
+   "slug": "single-arm-dumbbell-row",
+   "rank": 13,
+   "isTop": false,
+   "videos": 1,
+   "mentions": 1,
+   "equipment": "Dumbbells",
+   "equipmentSource": "name",
+   "demo": {
+    "videoId": "jLvqKgW-_G8",
+    "channel": "Jeff Nippard",
+    "start": 446,
+    "url": "https://www.youtube.com/watch?v=jLvqKgW-_G8&t=446s"
+   },
+   "quote": null
+  },
+  {
+   "name": "Wide-Grip Cable Row",
+   "slug": "wide-grip-cable-row",
+   "rank": 14,
+   "isTop": false,
+   "videos": 1,
+   "mentions": 1,
+   "equipment": "Cable station",
+   "equipmentSource": "name",
+   "demo": {
+    "videoId": "jLvqKgW-_G8",
+    "channel": "Jeff Nippard",
+    "start": 577,
+    "url": "https://www.youtube.com/watch?v=jLvqKgW-_G8&t=577s"
+   },
+   "quote": null
+  },
+  {
+   "name": "Wide-Grip Lat Pulldown",
+   "slug": "wide-grip-lat-pulldown",
+   "rank": 15,
+   "isTop": false,
+   "videos": 1,
+   "mentions": 1,
+   "equipment": "Cable pulldown station",
+   "equipmentSource": "name",
+   "demo": {
+    "videoId": "jLvqKgW-_G8",
+    "channel": "Jeff Nippard",
+    "start": 218,
+    "url": "https://www.youtube.com/watch?v=jLvqKgW-_G8&t=218s"
+   },
+   "quote": null
+  },
+  {
+   "name": "Yates Row",
+   "slug": "yates-row",
+   "rank": 16,
+   "isTop": false,
+   "videos": 1,
+   "mentions": 1,
+   "equipment": "Barbell",
+   "equipmentSource": "movement",
+   "demo": {
+    "videoId": "jLvqKgW-_G8",
+    "channel": "Jeff Nippard",
+    "start": 326,
+    "url": "https://www.youtube.com/watch?v=jLvqKgW-_G8&t=326s"
+   },
+   "quote": {
+    "text": "The Yates row is basically just a barbell row with a more upright posture and with looser technique.",
+    "channel": "Jeff Nippard",
+    "videoId": "jLvqKgW-_G8",
+    "at": 326360
+   }
+  },
+  {
+   "name": "Deficit Pendlay Row",
+   "slug": "deficit-pendlay-row",
+   "rank": 17,
+   "isTop": false,
+   "videos": 1,
+   "mentions": 0,
+   "equipment": "Barbell",
+   "equipmentSource": "movement",
+   "demo": {
+    "videoId": "jLvqKgW-_G8",
+    "channel": "Jeff Nippard",
+    "start": 378,
+    "url": "https://www.youtube.com/watch?v=jLvqKgW-_G8&t=378s"
+   },
+   "quote": {
+    "text": "The deficit penl row is a penl row where you stand on something like a bumper plate.",
+    "channel": "Jeff Nippard",
+    "videoId": "jLvqKgW-_G8",
+    "at": 378319
+   }
+  },
+  {
+   "name": "Free-Standing Row",
+   "slug": "free-standing-row",
+   "rank": 18,
+   "isTop": false,
+   "videos": 1,
+   "mentions": 0,
+   "equipment": "Barbell",
+   "equipmentSource": "movement",
+   "demo": {
+    "videoId": "jLvqKgW-_G8",
+    "channel": "Jeff Nippard",
+    "start": 505,
+    "url": "https://www.youtube.com/watch?v=jLvqKgW-_G8&t=505s"
+   },
+   "quote": null
+  },
+  {
+   "name": "Half-Kneeling Single-Arm Lat Pulldown",
+   "slug": "half-kneeling-single-arm-lat-pulldown",
+   "rank": 19,
+   "isTop": false,
+   "videos": 1,
+   "mentions": 0,
+   "equipment": "Cable pulldown station",
+   "equipmentSource": "name",
+   "demo": {
+    "videoId": "jLvqKgW-_G8",
+    "channel": "Jeff Nippard",
+    "start": 248,
+    "url": "https://www.youtube.com/watch?v=jLvqKgW-_G8&t=248s"
+   },
+   "quote": null
+  },
+  {
+   "name": "Kroc Row",
+   "slug": "kroc-row",
+   "rank": 20,
+   "isTop": false,
+   "videos": 1,
+   "mentions": 0,
+   "equipment": "Barbell",
+   "equipmentSource": "movement",
+   "demo": {
+    "videoId": "jLvqKgW-_G8",
+    "channel": "Jeff Nippard",
+    "start": 477,
+    "url": "https://www.youtube.com/watch?v=jLvqKgW-_G8&t=477s"
+   },
+   "quote": {
+    "text": "The Croc row is basically just a dumbbell row with looser form, so you use some leg drive and some momentum.",
+    "channel": "Jeff Nippard",
+    "videoId": "jLvqKgW-_G8",
+    "at": 477440
+   }
+  },
+  {
+   "name": "Neutral-Grip Lat Pulldown",
+   "slug": "neutral-grip-lat-pulldown",
+   "rank": 21,
+   "isTop": false,
+   "videos": 1,
+   "mentions": 0,
+   "equipment": "Cable pulldown station",
+   "equipmentSource": "name",
+   "demo": {
+    "videoId": "jLvqKgW-_G8",
+    "channel": "Jeff Nippard",
+    "start": 239,
+    "url": "https://www.youtube.com/watch?v=jLvqKgW-_G8&t=239s"
+   },
+   "quote": null
+  },
+  {
+   "name": "Pendlay Row",
+   "slug": "pendlay-row",
+   "rank": 22,
+   "isTop": false,
+   "videos": 1,
+   "mentions": 0,
+   "equipment": "Barbell",
+   "equipmentSource": "movement",
+   "demo": {
+    "videoId": "jLvqKgW-_G8",
+    "channel": "Jeff Nippard",
+    "start": 351,
+    "url": "https://www.youtube.com/watch?v=jLvqKgW-_G8&t=351s"
+   },
+   "quote": {
+    "text": "The penl row is essentially the opposite of the eight row: instead of going more upright, you go more bent over.",
+    "channel": "Jeff Nippard",
+    "videoId": "jLvqKgW-_G8",
+    "at": 351039
+   }
+  }
+ ],
+ "Biceps": [
+  {
+   "name": "Barbell Curl",
+   "slug": "barbell-curl",
+   "rank": 1,
+   "isTop": true,
+   "videos": 7,
+   "mentions": 24,
+   "equipment": "Barbell",
+   "equipmentSource": "name",
+   "demo": {
+    "videoId": "GNO4OtYoCYk",
+    "channel": "Jeff Nippard",
+    "start": 116,
+    "url": "https://www.youtube.com/watch?v=GNO4OtYoCYk&t=116s"
+   },
+   "quote": {
+    "text": "So this most likely isn't ideal, but you'll still grow your biceps as long as you're pushing hard, and the barbell curl is very good for overload.",
+    "channel": "Jeff Nippard",
+    "videoId": "GNO4OtYoCYk",
+    "at": 135800
+   }
+  },
+  {
+   "name": "Incline Curl",
+   "slug": "incline-curl",
+   "rank": 2,
+   "isTop": true,
+   "videos": 7,
+   "mentions": 21,
+   "equipment": "Adjustable bench",
+   "equipmentSource": "name",
+   "demo": {
+    "videoId": "GNO4OtYoCYk",
+    "channel": "Jeff Nippard",
+    "start": 320,
+    "url": "https://www.youtube.com/watch?v=GNO4OtYoCYk&t=320s"
+   },
+   "quote": null
+  },
+  {
+   "name": "Hammer Curl",
+   "slug": "hammer-curl",
+   "rank": 3,
+   "isTop": true,
+   "videos": 7,
+   "mentions": 18,
+   "equipment": "Dumbbells or EZ bar",
+   "equipmentSource": "movement",
+   "demo": {
+    "videoId": "20ibpB635Rw",
+    "channel": "Jeremy Ethier",
+    "start": 276,
+    "url": "https://www.youtube.com/watch?v=20ibpB635Rw&t=276s"
+   },
+   "quote": {
+    "text": "Now, to effectively target this muscle, we'll want to play around with our grip by incorporating hammer curls.",
+    "channel": "Jeremy Ethier",
+    "videoId": "20ibpB635Rw",
+    "at": 288379
+   }
+  },
+  {
+   "name": "Bicep Curl",
+   "slug": "bicep-curl",
+   "rank": 4,
+   "isTop": false,
+   "videos": 5,
+   "mentions": 10,
+   "equipment": "Dumbbells or EZ bar",
+   "equipmentSource": "movement",
+   "demo": {
+    "videoId": "i1YgFZB6alI",
+    "channel": "Jeff Nippard",
+    "start": 18,
+    "url": "https://www.youtube.com/watch?v=i1YgFZB6alI&t=18s"
+   },
+   "quote": {
+    "text": "Also, when viewing the curl from the side, you can see that some degree of shoulder flexion is happening, which is fine.",
+    "channel": "Jeff Nippard",
+    "videoId": "i1YgFZB6alI",
+    "at": 87360
+   }
+  },
+  {
+   "name": "EZ Bar Curl",
+   "slug": "ez-bar-curl",
+   "rank": 5,
+   "isTop": false,
+   "videos": 5,
+   "mentions": 10,
+   "equipment": "EZ bar",
+   "equipmentSource": "name",
+   "demo": {
+    "videoId": "GNO4OtYoCYk",
+    "channel": "Jeff Nippard",
+    "start": 165,
+    "url": "https://www.youtube.com/watch?v=GNO4OtYoCYk&t=165s"
+   },
+   "quote": {
+    "text": "The ez bar curl is the same thing, except the handles curve in a way that eases up some torque on my wrists.",
+    "channel": "Jeff Nippard",
+    "videoId": "GNO4OtYoCYk",
+    "at": 165319
+   }
+  },
+  {
+   "name": "Incline Dumbbell Curl",
+   "slug": "incline-dumbbell-curl",
+   "rank": 6,
+   "isTop": false,
+   "videos": 4,
+   "mentions": 10,
+   "equipment": "Dumbbells",
+   "equipmentSource": "name",
+   "demo": {
+    "videoId": "20ibpB635Rw",
+    "channel": "Jeremy Ethier",
+    "start": 188,
+    "url": "https://www.youtube.com/watch?v=20ibpB635Rw&t=188s"
+   },
+   "quote": {
+    "text": "First of all, we know that by placing the arm behind the body during the curl, we can now preferentially target the long head of the biceps due to its anatomy.",
+    "channel": "Jeremy Ethier",
+    "videoId": "20ibpB635Rw",
+    "at": 193580
+   }
+  },
+  {
+   "name": "Standing Dumbbell Curl",
+   "slug": "standing-dumbbell-curl",
+   "rank": 7,
+   "isTop": false,
+   "videos": 3,
+   "mentions": 4,
+   "equipment": "Dumbbells",
+   "equipmentSource": "name",
+   "demo": {
+    "videoId": "GNO4OtYoCYk",
+    "channel": "Jeff Nippard",
+    "start": 217,
+    "url": "https://www.youtube.com/watch?v=GNO4OtYoCYk&t=217s"
+   },
+   "quote": {
+    "text": "The standing dumbbell curl has zero tension in the full stretch, just like the barbell and ez bar curl.",
+    "channel": "Jeff Nippard",
+    "videoId": "GNO4OtYoCYk",
+    "at": 217760
+   }
+  },
+  {
+   "name": "Lying Dumbbell Curl",
+   "slug": "lying-dumbbell-curl",
+   "rank": 8,
+   "isTop": false,
+   "videos": 2,
+   "mentions": 5,
+   "equipment": "Dumbbells",
+   "equipmentSource": "name",
+   "demo": {
+    "videoId": "GNO4OtYoCYk",
+    "channel": "Jeff Nippard",
+    "start": 334,
+    "url": "https://www.youtube.com/watch?v=GNO4OtYoCYk&t=334s"
+   },
+   "quote": {
+    "text": "The lying dumbbell curl is basically just the more extreme version of the incline curl.",
+    "channel": "Jeff Nippard",
+    "videoId": "GNO4OtYoCYk",
+    "at": 334280
+   }
+  },
+  {
+   "name": "Inclined Dumbbell Curl",
+   "slug": "inclined-dumbbell-curl",
+   "rank": 9,
+   "isTop": false,
+   "videos": 2,
+   "mentions": 3,
+   "equipment": "Dumbbells",
+   "equipmentSource": "name",
+   "demo": {
+    "videoId": "ScYi8ZUk_Uo",
+    "channel": "Hypertrophy Coach",
+    "start": 243,
+    "url": "https://www.youtube.com/watch?v=ScYi8ZUk_Uo&t=243s"
+   },
+   "quote": {
+    "text": "So my next pick here is some sort of incline curl variation.",
+    "channel": "Hypertrophy Coach",
+    "videoId": "ScYi8ZUk_Uo",
+    "at": 243920
+   }
+  },
+  {
+   "name": "Machine Preacher Curl",
+   "slug": "machine-preacher-curl",
+   "rank": 10,
+   "isTop": false,
+   "videos": 2,
+   "mentions": 2,
+   "equipment": "Preacher bench",
+   "equipmentSource": "name",
+   "demo": {
+    "videoId": "GNO4OtYoCYk",
+    "channel": "Jeff Nippard",
+    "start": 421,
+    "url": "https://www.youtube.com/watch?v=GNO4OtYoCYk&t=421s"
+   },
+   "quote": {
+    "text": "The machine preacher curl has the added benefit of being nice and locked in.",
+    "channel": "Jeff Nippard",
+    "videoId": "GNO4OtYoCYk",
+    "at": 421199
+   }
+  },
+  {
+   "name": "Waiter Curl",
+   "slug": "waiter-curl",
+   "rank": 11,
+   "isTop": false,
+   "videos": 1,
+   "mentions": 3,
+   "equipment": "Dumbbells or EZ bar",
+   "equipmentSource": "movement",
+   "demo": {
+    "videoId": "GNO4OtYoCYk",
+    "channel": "Jeff Nippard",
+    "start": 436,
+    "url": "https://www.youtube.com/watch?v=GNO4OtYoCYk&t=436s"
+   },
+   "quote": null
+  },
+  {
+   "name": "Drag Curl",
+   "slug": "drag-curl",
+   "rank": 12,
+   "isTop": false,
+   "videos": 1,
+   "mentions": 2,
+   "equipment": "Dumbbells or EZ bar",
+   "equipmentSource": "movement",
+   "demo": {
+    "videoId": "GNO4OtYoCYk",
+    "channel": "Jeff Nippard",
+    "start": 455,
+    "url": "https://www.youtube.com/watch?v=GNO4OtYoCYk&t=455s"
+   },
+   "quote": {
+    "text": "The drag curl does have potential because by moving your arm back as you curl, you do put the bicep under a greater degree of stretch.",
+    "channel": "Jeff Nippard",
+    "videoId": "GNO4OtYoCYk",
+    "at": 455199
+   }
+  },
+  {
+   "name": "Spider Curl",
+   "slug": "spider-curl",
+   "rank": 13,
+   "isTop": false,
+   "videos": 1,
+   "mentions": 2,
+   "equipment": "Dumbbells or EZ bar",
+   "equipmentSource": "movement",
+   "demo": {
+    "videoId": "GNO4OtYoCYk",
+    "channel": "Jeff Nippard",
+    "start": 491,
+    "url": "https://www.youtube.com/watch?v=GNO4OtYoCYk&t=491s"
+   },
+   "quote": {
+    "text": "Also annoyingly hit the bench and throw off your groove, so spider curls are going.",
+    "channel": "Jeff Nippard",
+    "videoId": "GNO4OtYoCYk",
+    "at": 504800
+   }
+  },
+  {
+   "name": "Strict Curl",
+   "slug": "strict-curl",
+   "rank": 14,
+   "isTop": false,
+   "videos": 1,
+   "mentions": 2,
+   "equipment": "Dumbbells or EZ bar",
+   "equipmentSource": "movement",
+   "demo": {
+    "videoId": "GNO4OtYoCYk",
+    "channel": "Jeff Nippard",
+    "start": 750,
+    "url": "https://www.youtube.com/watch?v=GNO4OtYoCYk&t=750s"
+   },
+   "quote": {
+    "text": "Unlike with the cheek curl, there's no tension being lost to your hips or your low back with stri curls.",
+    "channel": "Jeff Nippard",
+    "videoId": "GNO4OtYoCYk",
+    "at": 763839
+   }
+  },
+  {
+   "name": "Flat Bench Curl",
+   "slug": "flat-bench-curl",
+   "rank": 15,
+   "isTop": false,
+   "videos": 1,
+   "mentions": 1,
+   "equipment": "Barbell + flat bench",
+   "equipmentSource": "movement",
+   "demo": {
+    "videoId": "GNO4OtYoCYk",
+    "channel": "Jeff Nippard",
+    "start": 390,
+    "url": "https://www.youtube.com/watch?v=GNO4OtYoCYk&t=390s"
+   },
+   "quote": {
+    "text": "Doing curls this way will cause the highest bicep tension in.",
+    "channel": "Jeff Nippard",
+    "videoId": "GNO4OtYoCYk",
+    "at": 395199
+   }
+  },
+  {
+   "name": "Scott Curl",
+   "slug": "scott-curl",
+   "rank": 16,
+   "isTop": false,
+   "videos": 1,
+   "mentions": 1,
+   "equipment": "Preacher bench",
+   "equipmentSource": "name",
+   "demo": {
+    "videoId": "GNO4OtYoCYk",
+    "channel": "Jeff Nippard",
+    "start": 368,
+    "url": "https://www.youtube.com/watch?v=GNO4OtYoCYk&t=368s"
+   },
+   "quote": {
+    "text": "It's basically just a worse version of the 45° preacher curl.",
+    "channel": "Jeff Nippard",
+    "videoId": "GNO4OtYoCYk",
+    "at": 382240
+   }
+  },
+  {
+   "name": "Seated Concentration Curl",
+   "slug": "seated-concentration-curl",
+   "rank": 17,
+   "isTop": false,
+   "videos": 1,
+   "mentions": 1,
+   "equipment": "Dumbbells or EZ bar",
+   "equipmentSource": "movement",
+   "demo": {
+    "videoId": "20ibpB635Rw",
+    "channel": "Jeremy Ethier",
+    "start": 46,
+    "url": "https://www.youtube.com/watch?v=20ibpB635Rw&t=46s"
+   },
+   "quote": {
+    "text": "The first exercise is a seated concentration curl and is going to be used to preferentially.",
+    "channel": "Jeremy Ethier",
+    "videoId": "20ibpB635Rw",
+    "at": 46110
+   }
+  },
+  {
+   "name": "Standard Cable Curl",
+   "slug": "standard-cable-curl",
+   "rank": 18,
+   "isTop": false,
+   "videos": 1,
+   "mentions": 1,
+   "equipment": "Cable station",
+   "equipmentSource": "name",
+   "demo": {
+    "videoId": "GNO4OtYoCYk",
+    "channel": "Jeff Nippard",
+    "start": 612,
+    "url": "https://www.youtube.com/watch?v=GNO4OtYoCYk&t=612s"
+   },
+   "quote": null
+  },
+  {
+   "name": "Bayesian Cable Curl Variation",
+   "slug": "bayesian-cable-curl-variation",
+   "rank": 19,
+   "isTop": false,
+   "videos": 1,
+   "mentions": 0,
+   "equipment": "Cable station",
+   "equipmentSource": "name",
+   "demo": {
+    "videoId": "GNO4OtYoCYk",
+    "channel": "Jeff Nippard",
+    "start": 671,
+    "url": "https://www.youtube.com/watch?v=GNO4OtYoCYk&t=671s"
+   },
+   "quote": {
+    "text": "The cool thing about this variation is that you actually get this 90° angle between the cable and your forarm while the bicep is most stretched.",
+    "channel": "Jeff Nippard",
+    "videoId": "GNO4OtYoCYk",
+    "at": 678519
+   }
+  },
+  {
+   "name": "Cheat Curl",
+   "slug": "cheat-curl",
+   "rank": 20,
+   "isTop": false,
+   "videos": 1,
+   "mentions": 0,
+   "equipment": "Dumbbells or EZ bar",
+   "equipmentSource": "movement",
+   "demo": {
+    "videoId": "GNO4OtYoCYk",
+    "channel": "Jeff Nippard",
+    "start": 705,
+    "url": "https://www.youtube.com/watch?v=GNO4OtYoCYk&t=705s"
+   },
+   "quote": null
+  },
+  {
+   "name": "Dumbbell Preacher Curl",
+   "slug": "dumbbell-preacher-curl",
+   "rank": 21,
+   "isTop": false,
+   "videos": 1,
+   "mentions": 0,
+   "equipment": "Preacher bench",
+   "equipmentSource": "name",
+   "demo": {
+    "videoId": "GNO4OtYoCYk",
+    "channel": "Jeff Nippard",
+    "start": 265,
+    "url": "https://www.youtube.com/watch?v=GNO4OtYoCYk&t=265s"
+   },
+   "quote": {
+    "text": "This was shown in a recent study that compared incline curls to preacher curls.",
+    "channel": "Jeff Nippard",
+    "videoId": "GNO4OtYoCYk",
+    "at": 291440
+   }
+  },
+  {
+   "name": "Face Away Bayesian Cable Curl",
+   "slug": "face-away-bayesian-cable-curl",
+   "rank": 22,
+   "isTop": false,
+   "videos": 1,
+   "mentions": 0,
+   "equipment": "Cable station",
+   "equipmentSource": "name",
+   "demo": {
+    "videoId": "GNO4OtYoCYk",
+    "channel": "Jeff Nippard",
+    "start": 628,
+    "url": "https://www.youtube.com/watch?v=GNO4OtYoCYk&t=628s"
+   },
+   "quote": {
+    "text": "All right, this is a freaky looking variation on the beian cable curl that I've been playing around with lately.",
+    "channel": "Jeff Nippard",
+    "videoId": "GNO4OtYoCYk",
+    "at": 670399
+   }
+  },
+  {
+   "name": "Inverse Zottman Curl",
+   "slug": "inverse-zottman-curl",
+   "rank": 23,
+   "isTop": false,
+   "videos": 1,
+   "mentions": 0,
+   "equipment": "Dumbbells or EZ bar",
+   "equipmentSource": "movement",
+   "demo": {
+    "videoId": "GNO4OtYoCYk",
+    "channel": "Jeff Nippard",
+    "start": 865,
+    "url": "https://www.youtube.com/watch?v=GNO4OtYoCYk&t=865s"
+   },
+   "quote": {
+    "text": "Inverse zman curls are where you do a hammer curl on the positive and then a standard supinated curl on the negative.",
+    "channel": "Jeff Nippard",
+    "videoId": "GNO4OtYoCYk",
+    "at": 865920
+   }
+  },
+  {
+   "name": "Preacher Hammer Curl",
+   "slug": "preacher-hammer-curl",
+   "rank": 24,
+   "isTop": false,
+   "videos": 1,
+   "mentions": 0,
+   "equipment": "Preacher bench",
+   "equipmentSource": "name",
+   "demo": {
+    "videoId": "GNO4OtYoCYk",
+    "channel": "Jeff Nippard",
+    "start": 855,
+    "url": "https://www.youtube.com/watch?v=GNO4OtYoCYk&t=855s"
+   },
+   "quote": {
+    "text": "That said, if you do your hammer curls while braced against a preacher bench, you instantly improve the resistance profile, and so hammer grip creature curls are going in s tier.",
+    "channel": "Jeff Nippard",
+    "videoId": "GNO4OtYoCYk",
+    "at": 856320
+   }
+  },
+  {
+   "name": "Single-Arm Curl",
+   "slug": "single-arm-curl",
+   "rank": 25,
+   "isTop": false,
+   "videos": 1,
+   "mentions": 0,
+   "equipment": "Dumbbells or EZ bar",
+   "equipmentSource": "movement",
+   "demo": {
+    "videoId": "ScYi8ZUk_Uo",
+    "channel": "Hypertrophy Coach",
+    "start": 0,
+    "url": "https://www.youtube.com/watch?v=ScYi8ZUk_Uo&t=0s"
+   },
+   "quote": {
+    "text": "So, on a preacher curl, it's great because it overloads right in the middle, where your biceps are arguably the strongest.",
+    "channel": "Hypertrophy Coach",
+    "videoId": "ScYi8ZUk_Uo",
+    "at": 38559
+   }
+  }
+ ],
+ "Forearms": [
+  {
+   "name": "Reverse-Grip Curl",
+   "slug": "reverse-grip-curl",
+   "rank": 1,
+   "isTop": true,
+   "videos": 4,
+   "mentions": 5,
+   "equipment": "Dumbbells or EZ bar",
+   "equipmentSource": "movement",
+   "demo": {
+    "videoId": "MfMxT_jXcPE",
+    "channel": "Jeff Nippard",
+    "start": 74,
+    "url": "https://www.youtube.com/watch?v=MfMxT_jXcPE&t=74s"
+   },
+   "quote": {
+    "text": "While keeping your elbows pinned in at your sides, curl the weight up until you reach maximum elbow flexion and then lower the weight back down under control.",
+    "channel": "Jeff Nippard",
+    "videoId": "MfMxT_jXcPE",
+    "at": 110790
+   }
+  },
+  {
+   "name": "Top Half Reverse Curl",
+   "slug": "top-half-reverse-curl",
+   "rank": 2,
+   "isTop": true,
+   "videos": 1,
+   "mentions": 1,
+   "equipment": "Dumbbells or EZ bar",
+   "equipmentSource": "movement",
+   "demo": {
+    "videoId": "MfMxT_jXcPE",
+    "channel": "Jeff Nippard",
+    "start": 144,
+    "url": "https://www.youtube.com/watch?v=MfMxT_jXcPE&t=144s"
+   },
+   "quote": null
+  }
+ ],
+ "Quadriceps": [
+  {
+   "name": "Squat",
+   "slug": "squat",
+   "rank": 1,
+   "isTop": true,
+   "videos": 52,
+   "mentions": 461,
+   "equipment": "Barbell + squat rack",
+   "equipmentSource": "movement",
+   "demo": {
+    "videoId": "vdHYj7iwNRE",
+    "channel": "Renaissance Periodization",
+    "start": 86,
+    "url": "https://www.youtube.com/watch?v=vdHYj7iwNRE&t=86s"
+   },
+   "quote": {
+    "text": "If you know how to squat properly, 100 lb less than you used to squat for reps can zap your quads better than that 100 pounds more ever could.",
+    "channel": "Renaissance Periodization",
+    "videoId": "vdHYj7iwNRE",
+    "at": 124960
+   }
+  },
+  {
+   "name": "Deadlift",
+   "slug": "deadlift",
+   "rank": 2,
+   "isTop": true,
+   "videos": 41,
+   "mentions": 112,
+   "equipment": "Barbell",
+   "equipmentSource": "movement",
+   "demo": {
+    "videoId": "kIXcoivzGf8",
+    "channel": "Jeff Nippard",
+    "start": 603,
+    "url": "https://www.youtube.com/watch?v=kIXcoivzGf8&t=603s"
+   },
+   "quote": {
+    "text": "The conventional deadlift is a good glute Builder since it trains hip extension, it gives a big stretch on the lower glutes and it's amazing for Progressive overload.",
+    "channel": "Jeff Nippard",
+    "videoId": "3ryh7PNhz3E",
+    "at": 652040
+   }
+  },
+  {
+   "name": "Leg Extension",
+   "slug": "leg-extension",
+   "rank": 3,
+   "isTop": true,
+   "videos": 20,
+   "mentions": 83,
+   "equipment": "Leg extension machine",
+   "equipmentSource": "name",
+   "demo": {
+    "videoId": "kIXcoivzGf8",
+    "channel": "Jeff Nippard",
+    "start": 425,
+    "url": "https://www.youtube.com/watch?v=kIXcoivzGf8&t=425s"
+   },
+   "quote": {
+    "text": "All right, the leg extension: this is a surprisingly controversial one.",
+    "channel": "Jeff Nippard",
+    "videoId": "kIXcoivzGf8",
+    "at": 425039
+   }
+  },
+  {
+   "name": "Split Squat",
+   "slug": "split-squat",
+   "rank": 4,
+   "isTop": false,
+   "videos": 15,
+   "mentions": 47,
+   "equipment": "Dumbbells (bodyweight to start)",
+   "equipmentSource": "movement",
+   "demo": {
+    "videoId": "Xg9B6pqHUQE",
+    "channel": "Jeremy Ethier",
+    "start": 291,
+    "url": "https://www.youtube.com/watch?v=Xg9B6pqHUQE&t=291s"
+   },
+   "quote": {
+    "text": "Now, the target leg is going to be your front leg during the split squat.",
+    "channel": "Squat University",
+    "videoId": "HVp9ku40t2w",
+    "at": 503280
+   }
+  },
+  {
+   "name": "Lunge",
+   "slug": "lunge",
+   "rank": 5,
+   "isTop": false,
+   "videos": 14,
+   "mentions": 39,
+   "equipment": "Dumbbells (bodyweight to start)",
+   "equipmentSource": "movement",
+   "demo": {
+    "videoId": "kIXcoivzGf8",
+    "channel": "Jeff Nippard",
+    "start": 399,
+    "url": "https://www.youtube.com/watch?v=kIXcoivzGf8&t=399s"
+   },
+   "quote": null
+  },
+  {
+   "name": "Hack Squat",
+   "slug": "hack-squat",
+   "rank": 6,
+   "isTop": false,
+   "videos": 8,
+   "mentions": 22,
+   "equipment": "Hack squat machine",
+   "equipmentSource": "name",
+   "demo": {
+    "videoId": "kIXcoivzGf8",
+    "channel": "Jeff Nippard",
+    "start": 276,
+    "url": "https://www.youtube.com/watch?v=kIXcoivzGf8&t=276s"
+   },
+   "quote": null
+  },
+  {
+   "name": "Barbell Back Squat",
+   "slug": "barbell-back-squat",
+   "rank": 7,
+   "isTop": false,
+   "videos": 6,
+   "mentions": 11,
+   "equipment": "Barbell",
+   "equipmentSource": "name",
+   "demo": {
+    "videoId": "kIXcoivzGf8",
+    "channel": "Jeff Nippard",
+    "start": 121,
+    "url": "https://www.youtube.com/watch?v=kIXcoivzGf8&t=121s"
+   },
+   "quote": {
+    "text": "So while the mild anatomy concern almost pulls it back to a tier, I just can't take the barbell back squat out of s tier without a guilty conscience.",
+    "channel": "Jeff Nippard",
+    "videoId": "kIXcoivzGf8",
+    "at": 176440
+   }
+  },
+  {
+   "name": "Smith Machine Squat",
+   "slug": "smith-machine-squat",
+   "rank": 8,
+   "isTop": false,
+   "videos": 6,
+   "mentions": 7,
+   "equipment": "Smith machine",
+   "equipmentSource": "name",
+   "demo": {
+    "videoId": "kIXcoivzGf8",
+    "channel": "Jeff Nippard",
+    "start": 325,
+    "url": "https://www.youtube.com/watch?v=kIXcoivzGf8&t=325s"
+   },
+   "quote": {
+    "text": "The Smith machine squat seems to be a bit more accepted now than it was for or 5 years ago, especially as more top bodybuilders gravitate to it.",
+    "channel": "Jeff Nippard",
+    "videoId": "kIXcoivzGf8",
+    "at": 326280
+   }
+  },
+  {
+   "name": "Barbell Hip Thrust",
+   "slug": "barbell-hip-thrust",
+   "rank": 9,
+   "isTop": false,
+   "videos": 5,
+   "mentions": 9,
+   "equipment": "Barbell",
+   "equipmentSource": "name",
+   "demo": {
+    "videoId": "Xg9B6pqHUQE",
+    "channel": "Jeremy Ethier",
+    "start": 146,
+    "url": "https://www.youtube.com/watch?v=Xg9B6pqHUQE&t=146s"
+   },
+   "quote": {
+    "text": "The barbell hip thrust is, oddly enough, one of the more studied movements in all of exercise science.",
+    "channel": "Jeff Nippard",
+    "videoId": "3ryh7PNhz3E",
+    "at": 126600
+   }
+  },
+  {
+   "name": "Bulgarian Split Squat",
+   "slug": "bulgarian-split-squat",
+   "rank": 10,
+   "isTop": false,
+   "videos": 5,
+   "mentions": 9,
+   "equipment": "Dumbbells (bodyweight to start)",
+   "equipmentSource": "movement",
+   "demo": {
+    "videoId": "kIXcoivzGf8",
+    "channel": "Jeff Nippard",
+    "start": 574,
+    "url": "https://www.youtube.com/watch?v=kIXcoivzGf8&t=574s"
+   },
+   "quote": {
+    "text": "To make them even more glute focused, place your front foot further forward and lean forward as you squat.",
+    "channel": "Jeff Nippard",
+    "videoId": "3ryh7PNhz3E",
+    "at": 384400
+   }
+  },
+  {
+   "name": "Goblet Squat",
+   "slug": "goblet-squat",
+   "rank": 11,
+   "isTop": false,
+   "videos": 4,
+   "mentions": 7,
+   "equipment": "One dumbbell or kettlebell",
+   "equipmentSource": "movement",
+   "demo": {
+    "videoId": "kIXcoivzGf8",
+    "channel": "Jeff Nippard",
+    "start": 530,
+    "url": "https://www.youtube.com/watch?v=kIXcoivzGf8&t=530s"
+   },
+   "quote": {
+    "text": "So the goblet squat will quickly be limited to high rep sets only.",
+    "channel": "Jeff Nippard",
+    "videoId": "kIXcoivzGf8",
+    "at": 545279
+   }
+  },
+  {
+   "name": "Pendulum Squat",
+   "slug": "pendulum-squat",
+   "rank": 12,
+   "isTop": false,
+   "videos": 4,
+   "mentions": 6,
+   "equipment": "Pendulum squat machine",
+   "equipmentSource": "name",
+   "demo": {
+    "videoId": "kIXcoivzGf8",
+    "channel": "Jeff Nippard",
+    "start": 307,
+    "url": "https://www.youtube.com/watch?v=kIXcoivzGf8&t=307s"
+   },
+   "quote": {
+    "text": "The pendulum squat is similar to the hack squat, except the weight moves up and down in an arc.",
+    "channel": "Jeff Nippard",
+    "videoId": "kIXcoivzGf8",
+    "at": 307520
+   }
+  },
+  {
+   "name": "Pistol Squat",
+   "slug": "pistol-squat",
+   "rank": 13,
+   "isTop": false,
+   "videos": 2,
+   "mentions": 4,
+   "equipment": "Bodyweight",
+   "equipmentSource": "movement",
+   "demo": {
+    "videoId": "kIXcoivzGf8",
+    "channel": "Jeff Nippard",
+    "start": 640,
+    "url": "https://www.youtube.com/watch?v=kIXcoivzGf8&t=640s"
+   },
+   "quote": {
+    "text": "I'm going to put pistol squats in C tier as a quad Builder.",
+    "channel": "Jeff Nippard",
+    "videoId": "kIXcoivzGf8",
+    "at": 653160
+   }
+  },
+  {
+   "name": "Barbell Front Squat",
+   "slug": "barbell-front-squat",
+   "rank": 14,
+   "isTop": false,
+   "videos": 2,
+   "mentions": 3,
+   "equipment": "Barbell",
+   "equipmentSource": "name",
+   "demo": {
+    "videoId": "kIXcoivzGf8",
+    "channel": "Jeff Nippard",
+    "start": 184,
+    "url": "https://www.youtube.com/watch?v=kIXcoivzGf8&t=184s"
+   },
+   "quote": null
+  },
+  {
+   "name": "Bosu Ball Squat",
+   "slug": "bosu-ball-squat",
+   "rank": 15,
+   "isTop": false,
+   "videos": 1,
+   "mentions": 3,
+   "equipment": "BOSU ball",
+   "equipmentSource": "name",
+   "demo": {
+    "videoId": "kIXcoivzGf8",
+    "channel": "Jeff Nippard",
+    "start": 103,
+    "url": "https://www.youtube.com/watch?v=kIXcoivzGf8&t=103s"
+   },
+   "quote": {
+    "text": "They might have some utility in some athletic contexts, but for building muscle, BOSU ball squats are going straight to F tier, all right.",
+    "channel": "Jeff Nippard",
+    "videoId": "kIXcoivzGf8",
+    "at": 111079
+   }
+  },
+  {
+   "name": "Horizontal Leg Press",
+   "slug": "horizontal-leg-press",
+   "rank": 16,
+   "isTop": false,
+   "videos": 1,
+   "mentions": 2,
+   "equipment": "Leg press machine",
+   "equipmentSource": "name",
+   "demo": {
+    "videoId": "kIXcoivzGf8",
+    "channel": "Jeff Nippard",
+    "start": 377,
+    "url": "https://www.youtube.com/watch?v=kIXcoivzGf8&t=377s"
+   },
+   "quote": {
+    "text": "The horizontal leg press is worse in my opinion because they almost always have even more limited range of motion.",
+    "channel": "Jeff Nippard",
+    "videoId": "kIXcoivzGf8",
+    "at": 378360
+   }
+  },
+  {
+   "name": "Jump Squat",
+   "slug": "jump-squat",
+   "rank": 17,
+   "isTop": false,
+   "videos": 1,
+   "mentions": 1,
+   "equipment": "Bodyweight",
+   "equipmentSource": "movement",
+   "demo": {
+    "videoId": "kIXcoivzGf8",
+    "channel": "Jeff Nippard",
+    "start": 561,
+    "url": "https://www.youtube.com/watch?v=kIXcoivzGf8&t=561s"
+   },
+   "quote": null
+  },
+  {
+   "name": "45 Degree Leg Press",
+   "slug": "45-degree-leg-press",
+   "rank": 18,
+   "isTop": false,
+   "videos": 1,
+   "mentions": 0,
+   "equipment": "Leg press machine",
+   "equipmentSource": "name",
+   "demo": {
+    "videoId": "kIXcoivzGf8",
+    "channel": "Jeff Nippard",
+    "start": 350,
+    "url": "https://www.youtube.com/watch?v=kIXcoivzGf8&t=350s"
+   },
+   "quote": {
+    "text": "So if you're not able to get your calves cheer glutes, you might not be getting as much out of a leg press as you would out of a deep squat.",
+    "channel": "Jeff Nippard",
+    "videoId": "kIXcoivzGf8",
+    "at": 366000
+   }
+  },
+  {
+   "name": "Low-Bar Squat",
+   "slug": "low-bar-squat",
+   "rank": 19,
+   "isTop": false,
+   "videos": 1,
+   "mentions": 0,
+   "equipment": "Barbell + squat rack",
+   "equipmentSource": "movement",
+   "demo": {
+    "videoId": "kIXcoivzGf8",
+    "channel": "Jeff Nippard",
+    "start": 248,
+    "url": "https://www.youtube.com/watch?v=kIXcoivzGf8&t=248s"
+   },
+   "quote": {
+    "text": "The hack squat is a longtime bodybuilding staple, and it ticks all the same boxes as the barbell squat.",
+    "channel": "Jeff Nippard",
+    "videoId": "kIXcoivzGf8",
+    "at": 275759
+   }
+  },
+  {
+   "name": "Sissy Squat",
+   "slug": "sissy-squat",
+   "rank": 20,
+   "isTop": false,
+   "videos": 1,
+   "mentions": 0,
+   "equipment": "Bodyweight",
+   "equipmentSource": "movement",
+   "demo": {
+    "videoId": "kIXcoivzGf8",
+    "channel": "Jeff Nippard",
+    "start": 656,
+    "url": "https://www.youtube.com/watch?v=kIXcoivzGf8&t=656s"
+   },
+   "quote": {
+    "text": "Squats are similar to reverse nordics and that they get a huge stretch on your quads and don't let the name deceive you, these are very challenging.",
+    "channel": "Jeff Nippard",
+    "videoId": "kIXcoivzGf8",
+    "at": 656600
+   }
+  }
+ ],
+ "Hamstrings": [
+  {
+   "name": "Seated Leg Curl",
+   "slug": "seated-leg-curl",
+   "rank": 1,
+   "isTop": true,
+   "videos": 9,
+   "mentions": 30,
+   "equipment": "Leg curl machine",
+   "equipmentSource": "name",
+   "demo": {
+    "videoId": "G6HEYVwC_aU",
+    "channel": "Hypertrophy Coach",
+    "start": 110,
+    "url": "https://www.youtube.com/watch?v=G6HEYVwC_aU&t=110s"
+   },
+   "quote": {
+    "text": "So that is the position that happens when you are in the seated leg curl on top of that, aside from the range of motion, it's isolated.",
+    "channel": "Hypertrophy Coach",
+    "videoId": "G6HEYVwC_aU",
+    "at": 179519
+   }
+  },
+  {
+   "name": "Lying Leg Curl",
+   "slug": "lying-leg-curl",
+   "rank": 2,
+   "isTop": true,
+   "videos": 8,
+   "mentions": 31,
+   "equipment": "Leg curl machine",
+   "equipmentSource": "name",
+   "demo": {
+    "videoId": "G6HEYVwC_aU",
+    "channel": "Hypertrophy Coach",
+    "start": 490,
+    "url": "https://www.youtube.com/watch?v=G6HEYVwC_aU&t=490s"
+   },
+   "quote": {
+    "text": "Just realize that's not a bad exercise, but it's pretty much the exact same thing as a lying leg curl turned on its side.",
+    "channel": "Hypertrophy Coach",
+    "videoId": "G6HEYVwC_aU",
+    "at": 632320
+   }
+  },
+  {
+   "name": "Stiff Leg Deadlift",
+   "slug": "stiff-leg-deadlift",
+   "rank": 3,
+   "isTop": true,
+   "videos": 8,
+   "mentions": 19,
+   "equipment": "Barbell",
+   "equipmentSource": "movement",
+   "demo": {
+    "videoId": "G6HEYVwC_aU",
+    "channel": "Hypertrophy Coach",
+    "start": 328,
+    "url": "https://www.youtube.com/watch?v=G6HEYVwC_aU&t=328s"
+   },
+   "quote": {
+    "text": "So i've seen lots of populations where people get extremely strong at stiff leg deadlifts, RDL variations, whatever it may be, but their glutes keep getting bigger and bigger.",
+    "channel": "Hypertrophy Coach",
+    "videoId": "G6HEYVwC_aU",
+    "at": 436639
+   }
+  },
+  {
+   "name": "Hip Hinge",
+   "slug": "hip-hinge",
+   "rank": 4,
+   "isTop": false,
+   "videos": 7,
+   "mentions": 29,
+   "equipment": "Barbell",
+   "equipmentSource": "movement",
+   "demo": {
+    "videoId": "5bJEigM5iVg",
+    "channel": "Squat University",
+    "start": 51,
+    "url": "https://www.youtube.com/watch?v=5bJEigM5iVg&t=51s"
+   },
+   "quote": {
+    "text": "Now the idea with the hip hinge is we're moving about the hips.",
+    "channel": "Squat University",
+    "videoId": "5bJEigM5iVg",
+    "at": 62480
+   }
+  },
+  {
+   "name": "Mastering the Hip Hinge",
+   "slug": "mastering-the-hip-hinge",
+   "rank": 5,
+   "isTop": false,
+   "videos": 1,
+   "mentions": 4,
+   "equipment": "Barbell",
+   "equipmentSource": "movement",
+   "demo": {
+    "videoId": "uhghy9pFIPY",
+    "channel": "E3 Rehab",
+    "start": 388,
+    "url": "https://www.youtube.com/watch?v=uhghy9pFIPY&t=388s"
+   },
+   "quote": {
+    "text": "What if you're struggling with mastering the hip hinge?",
+    "channel": "E3 Rehab",
+    "videoId": "uhghy9pFIPY",
+    "at": 388960
+   }
+  },
+  {
+   "name": "The Squat Is a Really",
+   "slug": "the-squat-is-a-really",
+   "rank": 6,
+   "isTop": false,
+   "videos": 1,
+   "mentions": 1,
+   "equipment": "Barbell + squat rack",
+   "equipmentSource": "movement",
+   "demo": {
+    "videoId": "0a_fVS2s4Ho",
+    "channel": "Jeff Nippard",
+    "start": 115,
+    "url": "https://www.youtube.com/watch?v=0a_fVS2s4Ho&t=115s"
+   },
+   "quote": null
+  }
+ ],
+ "Glutes": [
+  {
+   "name": "Deadlift",
+   "slug": "deadlift",
+   "rank": 1,
+   "isTop": true,
+   "videos": 41,
+   "mentions": 112,
+   "equipment": "Barbell",
+   "equipmentSource": "movement",
+   "demo": {
+    "videoId": "3ryh7PNhz3E",
+    "channel": "Jeff Nippard",
+    "start": 651,
+    "url": "https://www.youtube.com/watch?v=3ryh7PNhz3E&t=651s"
+   },
+   "quote": {
+    "text": "The conventional deadlift is a good glute Builder since it trains hip extension, it gives a big stretch on the lower glutes and it's amazing for Progressive overload.",
+    "channel": "Jeff Nippard",
+    "videoId": "3ryh7PNhz3E",
+    "at": 652040
+   }
+  },
+  {
+   "name": "Romanian Deadlift",
+   "slug": "romanian-deadlift",
+   "rank": 2,
+   "isTop": true,
+   "videos": 19,
+   "mentions": 89,
+   "equipment": "Barbell",
+   "equipmentSource": "movement",
+   "demo": {
+    "videoId": "3ryh7PNhz3E",
+    "channel": "Jeff Nippard",
+    "start": 701,
+    "url": "https://www.youtube.com/watch?v=3ryh7PNhz3E&t=701s"
+   },
+   "quote": null
+  },
+  {
+   "name": "Hip Thrust",
+   "slug": "hip-thrust",
+   "rank": 3,
+   "isTop": true,
+   "videos": 16,
+   "mentions": 101,
+   "equipment": "Barbell + bench",
+   "equipmentSource": "movement",
+   "demo": {
+    "videoId": "HVp9ku40t2w",
+    "channel": "Squat University",
+    "start": 358,
+    "url": "https://www.youtube.com/watch?v=HVp9ku40t2w&t=358s"
+   },
+   "quote": {
+    "text": "Now, this study looked at the single leg version of the hip thrust.",
+    "channel": "Squat University",
+    "videoId": "HVp9ku40t2w",
+    "at": 368400
+   }
+  },
+  {
+   "name": "Split Squat",
+   "slug": "split-squat",
+   "rank": 4,
+   "isTop": false,
+   "videos": 15,
+   "mentions": 47,
+   "equipment": "Dumbbells (bodyweight to start)",
+   "equipmentSource": "movement",
+   "demo": {
+    "videoId": "HVp9ku40t2w",
+    "channel": "Squat University",
+    "start": 503,
+    "url": "https://www.youtube.com/watch?v=HVp9ku40t2w&t=503s"
+   },
+   "quote": {
+    "text": "Now, the target leg is going to be your front leg during the split squat.",
+    "channel": "Squat University",
+    "videoId": "HVp9ku40t2w",
+    "at": 503280
+   }
+  },
+  {
+   "name": "Kickback",
+   "slug": "kickback",
+   "rank": 5,
+   "isTop": false,
+   "videos": 12,
+   "mentions": 46,
+   "equipment": "Unknown",
+   "equipmentSource": "none",
+   "demo": {
+    "videoId": "3ryh7PNhz3E",
+    "channel": "Jeff Nippard",
+    "start": 443,
+    "url": "https://www.youtube.com/watch?v=3ryh7PNhz3E&t=443s"
+   },
+   "quote": {
+    "text": "Kickbacks are actually very stable if you brace against the machine and perhaps even more stable if you brace against a bench.",
+    "channel": "Jeff Nippard",
+    "videoId": "3ryh7PNhz3E",
+    "at": 455160
+   }
+  },
+  {
+   "name": "Stiff Leg Deadlift",
+   "slug": "stiff-leg-deadlift",
+   "rank": 6,
+   "isTop": false,
+   "videos": 8,
+   "mentions": 19,
+   "equipment": "Barbell",
+   "equipmentSource": "movement",
+   "demo": {
+    "videoId": "_gakDkB24WI",
+    "channel": "Renaissance Periodization",
+    "start": 530,
+    "url": "https://www.youtube.com/watch?v=_gakDkB24WI&t=530s"
+   },
+   "quote": {
+    "text": "So i've seen lots of populations where people get extremely strong at stiff leg deadlifts, RDL variations, whatever it may be, but their glutes keep getting bigger and bigger.",
+    "channel": "Hypertrophy Coach",
+    "videoId": "G6HEYVwC_aU",
+    "at": 436639
+   }
+  },
+  {
+   "name": "Barbell Back Squat",
+   "slug": "barbell-back-squat",
+   "rank": 7,
+   "isTop": false,
+   "videos": 6,
+   "mentions": 11,
+   "equipment": "Barbell",
+   "equipmentSource": "name",
+   "demo": {
+    "videoId": "3ryh7PNhz3E",
+    "channel": "Jeff Nippard",
+    "start": 325,
+    "url": "https://www.youtube.com/watch?v=3ryh7PNhz3E&t=325s"
+   },
+   "quote": {
+    "text": "So while the mild anatomy concern almost pulls it back to a tier, I just can't take the barbell back squat out of s tier without a guilty conscience.",
+    "channel": "Jeff Nippard",
+    "videoId": "kIXcoivzGf8",
+    "at": 176440
+   }
+  },
+  {
+   "name": "Single-Leg Romanian Deadlift",
+   "slug": "single-leg-romanian-deadlift",
+   "rank": 8,
+   "isTop": false,
+   "videos": 6,
+   "mentions": 11,
+   "equipment": "Barbell",
+   "equipmentSource": "movement",
+   "demo": {
+    "videoId": "HVp9ku40t2w",
+    "channel": "Squat University",
+    "start": 538,
+    "url": "https://www.youtube.com/watch?v=HVp9ku40t2w&t=538s"
+   },
+   "quote": null
+  },
+  {
+   "name": "Smith Machine Squat",
+   "slug": "smith-machine-squat",
+   "rank": 9,
+   "isTop": false,
+   "videos": 6,
+   "mentions": 7,
+   "equipment": "Smith machine",
+   "equipmentSource": "name",
+   "demo": {
+    "videoId": "3ryh7PNhz3E",
+    "channel": "Jeff Nippard",
+    "start": 368,
+    "url": "https://www.youtube.com/watch?v=3ryh7PNhz3E&t=368s"
+   },
+   "quote": {
+    "text": "The Smith machine squat seems to be a bit more accepted now than it was for or 5 years ago, especially as more top bodybuilders gravitate to it.",
+    "channel": "Jeff Nippard",
+    "videoId": "kIXcoivzGf8",
+    "at": 326280
+   }
+  },
+  {
+   "name": "Barbell Hip Thrust",
+   "slug": "barbell-hip-thrust",
+   "rank": 10,
+   "isTop": false,
+   "videos": 5,
+   "mentions": 9,
+   "equipment": "Barbell",
+   "equipmentSource": "name",
+   "demo": {
+    "videoId": "3ryh7PNhz3E",
+    "channel": "Jeff Nippard",
+    "start": 126,
+    "url": "https://www.youtube.com/watch?v=3ryh7PNhz3E&t=126s"
+   },
+   "quote": {
+    "text": "The barbell hip thrust is, oddly enough, one of the more studied movements in all of exercise science.",
+    "channel": "Jeff Nippard",
+    "videoId": "3ryh7PNhz3E",
+    "at": 126600
+   }
+  },
+  {
+   "name": "Bulgarian Split Squat",
+   "slug": "bulgarian-split-squat",
+   "rank": 11,
+   "isTop": false,
+   "videos": 5,
+   "mentions": 9,
+   "equipment": "Dumbbells (bodyweight to start)",
+   "equipmentSource": "movement",
+   "demo": {
+    "videoId": "3ryh7PNhz3E",
+    "channel": "Jeff Nippard",
+    "start": 376,
+    "url": "https://www.youtube.com/watch?v=3ryh7PNhz3E&t=376s"
+   },
+   "quote": {
+    "text": "To make them even more glute focused, place your front foot further forward and lean forward as you squat.",
+    "channel": "Jeff Nippard",
+    "videoId": "3ryh7PNhz3E",
+    "at": 384400
+   }
+  },
+  {
+   "name": "Goblet Squat",
+   "slug": "goblet-squat",
+   "rank": 12,
+   "isTop": false,
+   "videos": 4,
+   "mentions": 7,
+   "equipment": "One dumbbell or kettlebell",
+   "equipmentSource": "movement",
+   "demo": {
+    "videoId": "rsxKcJVTtUw",
+    "channel": "Jeremy Ethier",
+    "start": 575,
+    "url": "https://www.youtube.com/watch?v=rsxKcJVTtUw&t=575s"
+   },
+   "quote": {
+    "text": "So the goblet squat will quickly be limited to high rep sets only.",
+    "channel": "Jeff Nippard",
+    "videoId": "kIXcoivzGf8",
+    "at": 545279
+   }
+  },
+  {
+   "name": "Glute Bridge",
+   "slug": "glute-bridge",
+   "rank": 13,
+   "isTop": false,
+   "videos": 4,
+   "mentions": 5,
+   "equipment": "Bodyweight (barbell optional)",
+   "equipmentSource": "movement",
+   "demo": {
+    "videoId": "3ryh7PNhz3E",
+    "channel": "Jeff Nippard",
+    "start": 283,
+    "url": "https://www.youtube.com/watch?v=3ryh7PNhz3E&t=283s"
+   },
+   "quote": null
+  },
+  {
+   "name": "Sumo Deadlift",
+   "slug": "sumo-deadlift",
+   "rank": 14,
+   "isTop": false,
+   "videos": 3,
+   "mentions": 4,
+   "equipment": "Barbell",
+   "equipmentSource": "movement",
+   "demo": {
+    "videoId": "3ryh7PNhz3E",
+    "channel": "Jeff Nippard",
+    "start": 680,
+    "url": "https://www.youtube.com/watch?v=3ryh7PNhz3E&t=680s"
+   },
+   "quote": {
+    "text": "The Romanian deadlift is the better choice for glute hypertrophy in my opinion, especially for the lower glutes in that glute hamstring tie-in area.",
+    "channel": "Jeff Nippard",
+    "videoId": "3ryh7PNhz3E",
+    "at": 700360
+   }
+  },
+  {
+   "name": "Machine Hip Thrust",
+   "slug": "machine-hip-thrust",
+   "rank": 15,
+   "isTop": false,
+   "videos": 3,
+   "mentions": 2,
+   "equipment": "Plate-loaded machine",
+   "equipmentSource": "name",
+   "demo": {
+    "videoId": "3ryh7PNhz3E",
+    "channel": "Jeff Nippard",
+    "start": 231,
+    "url": "https://www.youtube.com/watch?v=3ryh7PNhz3E&t=231s"
+   },
+   "quote": {
+    "text": "Another really good option is the single leg dumbbell hip thrust.",
+    "channel": "Jeff Nippard",
+    "videoId": "3ryh7PNhz3E",
+    "at": 260680
+   }
+  },
+  {
+   "name": "Walking Lunge",
+   "slug": "walking-lunge",
+   "rank": 16,
+   "isTop": false,
+   "videos": 2,
+   "mentions": 7,
+   "equipment": "Dumbbells (bodyweight to start)",
+   "equipmentSource": "movement",
+   "demo": {
+    "videoId": "3ryh7PNhz3E",
+    "channel": "Jeff Nippard",
+    "start": 565,
+    "url": "https://www.youtube.com/watch?v=3ryh7PNhz3E&t=565s"
+   },
+   "quote": {
+    "text": "There are many different ways to do lunges, but I like old school walking lunges the best.",
+    "channel": "Jeff Nippard",
+    "videoId": "3ryh7PNhz3E",
+    "at": 584440
+   }
+  },
+  {
+   "name": "Curtsy Lunge",
+   "slug": "curtsy-lunge",
+   "rank": 17,
+   "isTop": false,
+   "videos": 2,
+   "mentions": 2,
+   "equipment": "Dumbbells (bodyweight to start)",
+   "equipmentSource": "movement",
+   "demo": {
+    "videoId": "3ryh7PNhz3E",
+    "channel": "Jeff Nippard",
+    "start": 630,
+    "url": "https://www.youtube.com/watch?v=3ryh7PNhz3E&t=630s"
+   },
+   "quote": {
+    "text": "That said, I think, because they're harder to overload, I don't think they're quite as good as a standard lunge.",
+    "channel": "Jeff Nippard",
+    "videoId": "3ryh7PNhz3E",
+    "at": 639120
+   }
+  },
+  {
+   "name": "Single-Leg Dumbbell Hip Thrust",
+   "slug": "single-leg-dumbbell-hip-thrust",
+   "rank": 18,
+   "isTop": false,
+   "videos": 2,
+   "mentions": 2,
+   "equipment": "Dumbbells",
+   "equipmentSource": "name",
+   "demo": {
+    "videoId": "3ryh7PNhz3E",
+    "channel": "Jeff Nippard",
+    "start": 261,
+    "url": "https://www.youtube.com/watch?v=3ryh7PNhz3E&t=261s"
+   },
+   "quote": null
+  },
+  {
+   "name": "Single-Leg Squat",
+   "slug": "single-leg-squat",
+   "rank": 19,
+   "isTop": false,
+   "videos": 1,
+   "mentions": 3,
+   "equipment": "Barbell + squat rack",
+   "equipmentSource": "movement",
+   "demo": {
+    "videoId": "HVp9ku40t2w",
+    "channel": "Squat University",
+    "start": 421,
+    "url": "https://www.youtube.com/watch?v=HVp9ku40t2w&t=421s"
+   },
+   "quote": {
+    "text": "The single leg squat is probably one of my favorite exercises for hip health.",
+    "channel": "Squat University",
+    "videoId": "HVp9ku40t2w",
+    "at": 421919
+   }
+  },
+  {
+   "name": "Deficit Deadlift",
+   "slug": "deficit-deadlift",
+   "rank": 20,
+   "isTop": false,
+   "videos": 1,
+   "mentions": 1,
+   "equipment": "Barbell",
+   "equipmentSource": "movement",
+   "demo": {
+    "videoId": "_gakDkB24WI",
+    "channel": "Renaissance Periodization",
+    "start": 343,
+    "url": "https://www.youtube.com/watch?v=_gakDkB24WI&t=343s"
+   },
+   "quote": null
+  },
+  {
+   "name": "Side Plank Leg Lift",
+   "slug": "side-plank-leg-lift",
+   "rank": 21,
+   "isTop": false,
+   "videos": 1,
+   "mentions": 1,
+   "equipment": "Bodyweight",
+   "equipmentSource": "movement",
+   "demo": {
+    "videoId": "HVp9ku40t2w",
+    "channel": "Squat University",
+    "start": 313,
+    "url": "https://www.youtube.com/watch?v=HVp9ku40t2w&t=313s"
+   },
+   "quote": {
+    "text": "The side plank leg lift may look easy, but it's no joke.",
+    "channel": "Squat University",
+    "videoId": "HVp9ku40t2w",
+    "at": 313039
+   }
+  },
+  {
+   "name": "Smith Machine Lunge",
+   "slug": "smith-machine-lunge",
+   "rank": 22,
+   "isTop": false,
+   "videos": 1,
+   "mentions": 1,
+   "equipment": "Smith machine",
+   "equipmentSource": "name",
+   "demo": {
+    "videoId": "3ryh7PNhz3E",
+    "channel": "Jeff Nippard",
+    "start": 612,
+    "url": "https://www.youtube.com/watch?v=3ryh7PNhz3E&t=612s"
+   },
+   "quote": {
+    "text": "With curtsy lunges, you step back diagonally behind your other leg.",
+    "channel": "Jeff Nippard",
+    "videoId": "3ryh7PNhz3E",
+    "at": 629839
+   }
+  },
+  {
+   "name": "45-Degree Back Extension",
+   "slug": "45-degree-back-extension",
+   "rank": 23,
+   "isTop": false,
+   "videos": 1,
+   "mentions": 0,
+   "equipment": "Cable or dumbbells",
+   "equipmentSource": "movement",
+   "demo": {
+    "videoId": "3ryh7PNhz3E",
+    "channel": "Jeff Nippard",
+    "start": 728,
+    "url": "https://www.youtube.com/watch?v=3ryh7PNhz3E&t=728s"
+   },
+   "quote": null
+  },
+  {
+   "name": "Foot Elevated Lunge",
+   "slug": "foot-elevated-lunge",
+   "rank": 24,
+   "isTop": false,
+   "videos": 1,
+   "mentions": 0,
+   "equipment": "Smith machine",
+   "equipmentSource": "chapter note",
+   "demo": {
+    "videoId": "_gakDkB24WI",
+    "channel": "Renaissance Periodization",
+    "start": 116,
+    "url": "https://www.youtube.com/watch?v=_gakDkB24WI&t=116s"
+   },
+   "quote": {
+    "text": "And then come up and then again it makes sense: everything on the front right, everything on the front, Smith machine, front foot, elevated lunge.",
+    "channel": "Renaissance Periodization",
+    "videoId": "_gakDkB24WI",
+    "at": 151379
+   }
+  },
+  {
+   "name": "RP Style\" Squat Dropset",
+   "slug": "rp-style-squat-dropset",
+   "rank": 25,
+   "isTop": false,
+   "videos": 1,
+   "mentions": 0,
+   "equipment": "Barbell + squat rack",
+   "equipmentSource": "movement",
+   "demo": {
+    "videoId": "_gakDkB24WI",
+    "channel": "Renaissance Periodization",
+    "start": 734,
+    "url": "https://www.youtube.com/watch?v=_gakDkB24WI&t=734s"
+   },
+   "quote": null
+  },
+  {
+   "name": "Side Lying Leg Raise",
+   "slug": "side-lying-leg-raise",
+   "rank": 26,
+   "isTop": false,
+   "videos": 1,
+   "mentions": 0,
+   "equipment": "Dumbbells",
+   "equipmentSource": "movement",
+   "demo": {
+    "videoId": "HVp9ku40t2w",
+    "channel": "Squat University",
+    "start": 273,
+    "url": "https://www.youtube.com/watch?v=HVp9ku40t2w&t=273s"
+   },
+   "quote": {
+    "text": "The sidelineing leg raise, unfortunately, is not the muscle builder or hip sculptor that some have made it out to be in the past.",
+    "channel": "Squat University",
+    "videoId": "HVp9ku40t2w",
+    "at": 279919
+   }
+  }
+ ],
+ "Calves": [
+  {
+   "name": "Calf Raises",
+   "slug": "calf-raises",
+   "rank": 1,
+   "isTop": true,
+   "videos": 9,
+   "mentions": 68,
+   "equipment": "Calf raise machine or a step",
+   "equipmentSource": "movement",
+   "demo": {
+    "videoId": "21inrjhoFkQ",
+    "channel": "Jeff Nippard",
+    "start": 236,
+    "url": "https://www.youtube.com/watch?v=21inrjhoFkQ&t=236s"
+   },
+   "quote": {
+    "text": "According to EMG activation data from buh heck bare hands and bus keys, donkey calf raises came out on top.",
+    "channel": "Jeff Nippard",
+    "videoId": "21inrjhoFkQ",
+    "at": 248810
+   }
+  }
+ ]
+}

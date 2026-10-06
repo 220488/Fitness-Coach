@@ -27,6 +27,13 @@ body {
   display: grid;
   grid-template-columns: 1fr minmax(360px, 440px);
   height: 100vh;
+  transition: grid-template-columns 0.28s ease;
+}
+
+/* An open exercise carries a photo and much more text, so the panel takes more
+   of the window and the 3D viewer gives it up. */
+.layoutWide {
+  grid-template-columns: 1fr minmax(520px, 680px);
 }
 
 /* ---------- 3D viewer ---------- */
@@ -106,6 +113,14 @@ body {
   border-left: 1px solid var(--line);
 }
 
+.layoutWide .panel {
+  padding: 44px 48px;
+}
+
+.layoutWide .kitPhoto img {
+  aspect-ratio: 16 / 10;
+}
+
 .eyebrow {
   margin: 0 0 8px;
   font-size: 12px;
@@ -172,31 +187,6 @@ body {
 
 .warn strong {
   color: #f87171;
-}
-
-.cues {
-  margin: 0;
-  padding: 0;
-  list-style: none;
-  display: grid;
-  gap: 8px;
-}
-
-.cues li {
-  position: relative;
-  padding-left: 22px;
-  font-size: 14px;
-  line-height: 1.5;
-  color: #c3cfdd;
-}
-
-.cues li::before {
-  content: "✓";
-  position: absolute;
-  left: 0;
-  top: 0;
-  color: #34d399;
-  font-size: 13px;
 }
 
 .steps {
@@ -308,12 +298,62 @@ body {
 }
 
 .chips li {
-  padding: 5px 10px;
+  display: flex;
+}
+
+.chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  padding: 6px 12px 6px 7px;
   border: 1px solid var(--line);
   border-radius: 999px;
-  font-size: 13px;
+  background: transparent;
   color: #c3cfdd;
+  font: inherit;
+  font-size: 13px;
+  cursor: pointer;
+  transition: border-color 0.15s, background 0.15s, color 0.15s;
 }
+
+.chip:hover {
+  border-color: var(--accent-soft);
+  background: rgba(79, 227, 255, 0.08);
+  color: var(--text);
+}
+
+/* Exercises the source coach ranked D or F: visible, but visibly discouraged. */
+.chipPoor {
+  opacity: 0.55;
+  text-decoration: line-through;
+  text-decoration-color: rgba(248, 113, 113, 0.5);
+}
+
+.chipPoor:hover {
+  opacity: 1;
+  border-color: #f87171;
+  background: rgba(248, 113, 113, 0.08);
+}
+
+.tierBadge {
+  flex: 0 0 auto;
+  width: 19px;
+  height: 19px;
+  display: grid;
+  place-items: center;
+  border-radius: 50%;
+  font-size: 11px;
+  font-weight: 700;
+  background: #243040;
+  color: var(--muted);
+}
+
+.tbS { background: rgba(52, 211, 153, 0.18); color: #34d399; }
+.tbA { background: rgba(125, 211, 252, 0.18); color: #7dd3fc; }
+.tbB { background: rgba(250, 204, 21, 0.16); color: #facc15; }
+.tbC { background: rgba(251, 146, 60, 0.16); color: #fb923c; }
+.tbD,
+.tbF { background: rgba(248, 113, 113, 0.18); color: #f87171; }
 
 /* video list */
 
@@ -408,4 +448,301 @@ body {
     border-top: 1px solid var(--line);
     padding: 28px 22px 48px;
   }
+}
+
+/* ---------- exercise detail ---------- */
+
+.crumb {
+  margin-bottom: 18px;
+  padding: 0;
+  border: 0;
+  background: none;
+  color: var(--accent-soft);
+  font: inherit;
+  font-size: 13px;
+  cursor: pointer;
+}
+
+.crumb:hover {
+  text-decoration: underline;
+}
+
+.exHead {
+  display: flex;
+  align-items: center;
+  gap: 11px;
+  margin-bottom: 10px;
+}
+
+.exHead h1 {
+  margin: 0;
+}
+
+.exHead .tierBadge {
+  width: 28px;
+  height: 28px;
+  font-size: 14px;
+}
+
+.verdict {
+  margin: 0 0 4px;
+  font-size: 15px;
+  line-height: 1.55;
+  color: #c3cfdd;
+}
+
+.poorVerdict {
+  padding: 12px 14px;
+  border-left: 3px solid #f87171;
+  border-radius: 0 8px 8px 0;
+  background: rgba(248, 113, 113, 0.09);
+  color: #e8c9c9;
+}
+
+.plainWarn {
+  border-left-color: #facc15;
+  background: rgba(250, 204, 21, 0.08);
+  color: #ded0b0;
+}
+
+.watch {
+  display: flex;
+  align-items: center;
+  gap: 13px;
+  margin-top: 26px;
+  padding: 14px 16px;
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  color: inherit;
+  text-decoration: none;
+  transition: border-color 0.15s, background 0.15s;
+}
+
+.watch:hover {
+  border-color: var(--accent);
+  background: rgba(249, 115, 22, 0.08);
+}
+
+.watchPlay {
+  flex: 0 0 auto;
+  width: 32px;
+  height: 32px;
+  display: grid;
+  place-items: center;
+  border-radius: 50%;
+  background: var(--accent);
+  color: #150a02;
+  font-size: 12px;
+}
+
+.watchText {
+  display: grid;
+  gap: 3px;
+}
+
+.watchText strong {
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.watchText span {
+  font-size: 12.5px;
+  color: var(--muted);
+}
+
+/* ---------- top exercise picks ---------- */
+
+.picks {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: grid;
+  gap: 8px;
+}
+
+.pick {
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+  width: 100%;
+  padding: 13px 14px;
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  background: transparent;
+  color: inherit;
+  font: inherit;
+  text-align: left;
+  cursor: pointer;
+  transition: border-color 0.15s, background 0.15s;
+}
+
+.pick:hover {
+  border-color: var(--accent-soft);
+  background: rgba(79, 227, 255, 0.07);
+}
+
+.pickRank {
+  flex: 0 0 auto;
+  width: 22px;
+  height: 22px;
+  display: grid;
+  place-items: center;
+  border-radius: 50%;
+  background: rgba(79, 227, 255, 0.14);
+  color: var(--accent-soft);
+  font-size: 12px;
+  font-weight: 700;
+}
+
+.pickBody {
+  display: grid;
+  gap: 3px;
+  min-width: 0;
+}
+
+.pickTop {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.pickName {
+  font-size: 15px;
+  font-weight: 600;
+  line-height: 1.3;
+}
+
+.pickKit {
+  font-size: 13px;
+  color: #c3cfdd;
+}
+
+.moreToggle {
+  margin: 12px 0 10px;
+  padding: 0;
+  border: 0;
+  background: none;
+  color: var(--accent-soft);
+  font: inherit;
+  font-size: 13px;
+  cursor: pointer;
+}
+
+.moreToggle:hover {
+  text-decoration: underline;
+}
+
+/* ---------- exercise facts ---------- */
+
+.facts {
+  display: grid;
+  gap: 10px;
+  margin: 18px 0 0;
+  padding: 13px 15px;
+  border-radius: 10px;
+  background: rgba(255, 255, 255, 0.025);
+  border: 1px solid var(--line);
+}
+
+.facts div {
+  display: grid;
+  gap: 2px;
+}
+
+.facts dt {
+  font-size: 11.5px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+
+.facts dd {
+  margin: 0;
+  font-size: 14px;
+  color: var(--text);
+}
+
+.hedge {
+  color: var(--muted);
+  font-size: 12.5px;
+}
+
+/* ---------- equipment icons ---------- */
+
+.kitIcon {
+  flex: 0 0 auto;
+  color: var(--accent-soft);
+  opacity: 0.85;
+}
+
+.pickKit {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.pickKit .kitIcon {
+  opacity: 0.7;
+}
+
+/* "What you need" puts the label left, the drawing right. */
+.kitRow {
+  display: flex !important;
+  align-items: center;
+  justify-content: space-between;
+  gap: 14px;
+}
+
+.kitRow > div {
+  display: grid;
+  gap: 2px;
+  min-width: 0;
+}
+
+.kitRow .kitIcon {
+  width: 38px;
+  height: 38px;
+  padding: 5px;
+  border: 1px solid var(--line);
+  border-radius: 9px;
+  background: rgba(79, 227, 255, 0.06);
+}
+
+/* ---------- equipment photo (detail view only) ---------- */
+
+.kitPhoto {
+  grid-column: 1 / -1;
+  margin: 2px 0 0;
+}
+
+.kitPhoto img {
+  display: block;
+  width: 100%;
+  /* `cover` cropped every one of these: the box is wide but the source photos
+     are mostly portrait (as narrow as 0.50), so a machine lost most of its
+     frame. `contain` letterboxes instead, which keeps the whole machine
+     visible — the point of showing it at all. */
+  aspect-ratio: 3 / 2;
+  height: auto;
+  object-fit: contain;
+  border-radius: 8px;
+  border: 1px solid var(--line);
+  background: #091420;
+}
+
+.kitPhoto figcaption {
+  margin-top: 6px;
+  font-size: 11px;
+  line-height: 1.45;
+  color: #6f8296;
+}
+
+.kitPhoto figcaption a {
+  color: #8aa0b4;
+  text-decoration: none;
+}
+
+.kitPhoto figcaption a:hover {
+  color: var(--accent-soft);
+  text-decoration: underline;
 }

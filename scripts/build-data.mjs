@@ -36,6 +36,19 @@ function parseCsv(text) {
     .map((r) => Object.fromEntries(header.map((h, i) => [h, r[i] ?? ""])));
 }
 
+const EXERCISE_TERM =
+  /\b(press|bench|row|curl|squat|deadlift|dl|raise|extension|fly|flye|pulldown|pull[- ]?up|pull[- ]?over|chin[- ]?up|push[- ]?up|pushdown|dip|lunge|thrust|bridge|shrug|kickback|crunch|plank|hinge|hyperextension|good morning|pull[- ]?in|leg press|calf|carry|hang|face pull|pullthrough|split squat|step[- ]?up|hip thrust|rdl|jm|skull ?crusher)\b/i;
+
+const NOT_AN_EXERCISE =
+  /^(untitled|<|intro|outro|conclusion|sponsor|recap|summary|mistake|tip|the )|\b(mistakes?|wrong|too much|not enough|do(n't| not)|why|how to|vs\.?|versus|anatomy|science|myth|takeaway|benefits?|master\w+|common|rule \d|programming|volume|frequency|exercises?|injur\w+|training|tips?|best|worst|ranked|routine|workout|warm[- ]?up|stretch\w*)\b/i;
+
+/** Some channels write chapters in caps; normalise so the names look uniform. */
+const titleCase = (n) =>
+  n !== n.toUpperCase() ? n : n.toLowerCase().replace(/\b[a-z]/g, (c) => c.toUpperCase());
+
+const slugify = (n) =>
+  n.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
+
 /** Chapter titles in these videos are exercise names — the most useful bit for a beginner. */
 function loadChapters(bodyPart, videoId) {
   const path = join(rawRoot, bodyPart, `${videoId}.json`);
@@ -44,7 +57,7 @@ function loadChapters(bodyPart, videoId) {
     const doc = JSON.parse(readFileSync(path, "utf8"));
     return (doc.meta?.chapters ?? [])
       .filter((c) => !/^(intro|outro|conclusion|sponsor|recap|summary)\b/i.test(c.title.trim()))
-      .map((c) => ({ title: c.title.trim(), start: c.start_time }));
+      .map((c) => ({ title: c.title.trim(), start: c.start_time, end: c.end_time }));
   } catch {
     return [];
   }
@@ -82,14 +95,52 @@ for (const part of Object.keys(byPart)) {
   byPart[part].sort((a, b) => a.rank - b.rank);
 }
 
+/**
+ * Pull the exercise list for a muscle out of its videos' chapters, keeping the
+ * timestamp so the app can deep-link to the exact moment it is demonstrated.
+ * Editorial content (tier, cues, mistakes) is matched to these by slug in
+ * src/lib/exercises.ts — this step only establishes what exists and where.
+ */
+function exercisesFor(videos, limit = 8) {
+  const seen = new Set();
+  const out = [];
+  for (const video of videos) {
+    for (const chapter of video.chapters) {
+      const name = chapter.title.replace(/^\d+[.)]\s*/, "").trim();
+      const slug = slugify(name);
+      if (!slug || seen.has(slug)) continue;
+      if (name.length > 38 || name.includes("?") || name.includes(":")) continue;
+      if (NOT_AN_EXERCISE.test(name) || !EXERCISE_TERM.test(name)) continue;
+      seen.add(slug);
+      out.push({
+        name: titleCase(name),
+        slug,
+        videoId: video.videoId,
+        channel: video.channel,
+        videoTitle: video.title,
+        start: chapter.start,
+        seconds: Math.max(0, (chapter.end ?? chapter.start) - chapter.start),
+      });
+      if (out.length >= limit) return out;
+    }
+  }
+  return out;
+}
+
+const data = {};
+for (const part of Object.keys(byPart)) {
+  data[part] = { videos: byPart[part], exercises: exercisesFor(byPart[part]) };
+}
+
 const out = join(here, "..", "src", "data", "muscles.json");
-writeFileSync(out, JSON.stringify(byPart, null, 2));
+writeFileSync(out, JSON.stringify(data, null, 2));
 
 const parts = Object.keys(byPart).sort();
 console.log(
   `[data] ${rows.length} videos across ${parts.length} body parts -> src/data/muscles.json`
 );
 for (const p of parts) {
-  const withChapters = byPart[p].filter((v) => v.chapters.length).length;
-  console.log(`       ${p.padEnd(12)} ${String(byPart[p].length).padStart(2)} videos, ${withChapters} with chapters`);
+  console.log(
+    `       ${p.padEnd(12)} ${String(byPart[p].length).padStart(2)} videos, ${String(data[p].exercises.length).padStart(2)} exercises`
+  );
 }
