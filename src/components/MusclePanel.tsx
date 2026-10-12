@@ -12,7 +12,7 @@ import {
   type MuscleData,
   type MuscleId,
 } from "@/lib/muscles";
-import { TIER_NOTE, coachingFor, type Tier } from "@/lib/exercises";
+import { coachingFor, type Tier } from "@/lib/exercises";
 import { EquipmentIcon } from "@/components/EquipmentIcon";
 import { EquipmentPhoto } from "@/components/EquipmentPhoto";
 import {
@@ -31,14 +31,6 @@ const tierFor = (muscle: string, slug: string) => TIERS[`${muscle}/${slug}`];
 
 /** Tiers a coach gave as a warning rather than a recommendation. */
 const POOR_TIERS: Tier[] = ["D", "F"];
-
-function TierBadge({ tier }: { tier: Tier }) {
-  return (
-    <span className={`tierBadge tb${tier}`} title={TIER_NOTE[tier]}>
-      {tier}
-    </span>
-  );
-}
 
 /** The detail view for one exercise, opened from the pick list. */
 function ExerciseDetail({
@@ -68,7 +60,6 @@ function ExerciseDetail({
 
       <div className="exHead">
         <h1>{exercise.name}</h1>
-        {ranked && <TierBadge tier={ranked.tier} />}
       </div>
 
       <dl className="facts">
@@ -205,9 +196,6 @@ export function MusclePanel({
                   <span className="pickBody">
                     <span className="pickTop">
                       <span className="pickName">{exercise.name}</span>
-                      {tierFor(selected, exercise.slug) && (
-                        <TierBadge tier={tierFor(selected, exercise.slug)!.tier} />
-                      )}
                     </span>
                     <span className="pickKit">
                       <EquipmentIcon equipment={exercise.equipment} size={17} />

@@ -286,75 +286,6 @@ body {
   background: rgba(125, 211, 252, 0.06);
 }
 
-/* exercise chips */
-
-.chips {
-  margin: 0;
-  padding: 0;
-  list-style: none;
-  display: flex;
-  flex-wrap: wrap;
-  gap: 6px;
-}
-
-.chips li {
-  display: flex;
-}
-
-.chip {
-  display: inline-flex;
-  align-items: center;
-  gap: 7px;
-  padding: 6px 12px 6px 7px;
-  border: 1px solid var(--line);
-  border-radius: 999px;
-  background: transparent;
-  color: #c3cfdd;
-  font: inherit;
-  font-size: 13px;
-  cursor: pointer;
-  transition: border-color 0.15s, background 0.15s, color 0.15s;
-}
-
-.chip:hover {
-  border-color: var(--accent-soft);
-  background: rgba(79, 227, 255, 0.08);
-  color: var(--text);
-}
-
-/* Exercises the source coach ranked D or F: visible, but visibly discouraged. */
-.chipPoor {
-  opacity: 0.55;
-  text-decoration: line-through;
-  text-decoration-color: rgba(248, 113, 113, 0.5);
-}
-
-.chipPoor:hover {
-  opacity: 1;
-  border-color: #f87171;
-  background: rgba(248, 113, 113, 0.08);
-}
-
-.tierBadge {
-  flex: 0 0 auto;
-  width: 19px;
-  height: 19px;
-  display: grid;
-  place-items: center;
-  border-radius: 50%;
-  font-size: 11px;
-  font-weight: 700;
-  background: #243040;
-  color: var(--muted);
-}
-
-.tbS { background: rgba(52, 211, 153, 0.18); color: #34d399; }
-.tbA { background: rgba(125, 211, 252, 0.18); color: #7dd3fc; }
-.tbB { background: rgba(250, 204, 21, 0.16); color: #facc15; }
-.tbC { background: rgba(251, 146, 60, 0.16); color: #fb923c; }
-.tbD,
-.tbF { background: rgba(248, 113, 113, 0.18); color: #f87171; }
-
 /* video list */
 
 .videos {
@@ -476,12 +407,6 @@ body {
 
 .exHead h1 {
   margin: 0;
-}
-
-.exHead .tierBadge {
-  width: 28px;
-  height: 28px;
-  font-size: 14px;
 }
 
 .verdict {
