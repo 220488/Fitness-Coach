@@ -9,3 +9,7 @@ next-env.d.ts
 
 # local verification artefacts
 arm-check.png
+
+# python
+__pycache__/
+*.pyc
